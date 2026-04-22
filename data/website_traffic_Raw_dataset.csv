@@ -1,0 +1,1275 @@
+Date,Traffic_Source,Device_Type,Country,Page_Visited,Sessions,Users,New_Users,Bounce_Rate,Avg_Session_Duration,Conversions,Revenue,Campaign_Name,Month
+01/01/2024,Google Ads,Tablet,Canada,Landing Page,182,165,83,49.05,110,9,342,Email Campaign,Jan
+01/01/2024,Facebook Ads,Desktop,UK,Promo Page,179,139,89,29.52,177,14,686,Email Campaign,Jan
+01/01/2024,Instagram Ads,Tablet,Kenya,Checkout Page,240,194,117,39.66,138,29,1363,None,Jan
+01/01/2024,Organic Search,Mobile,USA,Product Page,130,107,79,40.6,318,21,546,SEO Campaign,Jan
+01/01/2024,Direct,Tablet,Australia,Promo Page,168,158,109,36.22,142,4,156,Email Campaign,Jan
+01/01/2024,Email Marketing,Desktop,Kenya,Checkout Page,343,259,187,34.99,193,6,126,Spring Sale,Jan
+01/01/2024,Referral,Desktop,India,Checkout Page,339,266,197,48.93,251,12,660,None,Jan
+02/01/2024,Google Ads,Desktop,USA,Promo Page,331,251,137,38.49,171,17,731,SEO Campaign,Jan
+02/01/2024,Facebook Ads,Mobile,Australia,Landing Page,459,369,198,32.46,178,9,252,New Product Launch,Jan
+02/01/2024,Instagram Ads,Mobile,Australia,Product Page,160,142,97,44.36,130,30,780,Winter Sale,Jan
+02/01/2024,Organic Search,Tablet,Canada,Home Page,127,104,67,45.98,261,10,410,New Product Launch,Jan
+02/01/2024,Direct,Mobile,India,Product Page,180,169,119,47.49,231,9,414,Spring Sale,Jan
+02/01/2024,Email Marketing,Desktop,Germany,Blog Page,459,354,162,45.18,141,31,1581,None,Jan
+02/01/2024,Referral,Desktop,Germany,Checkout Page,250,197,144,44.17,175,30,630,Winter Sale,Jan
+03/01/2024,Google Ads,Mobile,India,Checkout Page,213,179,92,39.25,279,13,611,Winter Sale,Jan
+03/01/2024,Facebook Ads,Tablet,USA,Checkout Page,464,369,213,50.09,92,9,225,Email Campaign,Jan
+03/01/2024,Instagram Ads,Mobile,Australia,Home Page,304,235,129,53.46,207,34,1734,Brand Awareness,Jan
+03/01/2024,Organic Search,Tablet,USA,Product Page,131,104,68,47.23,190,19,684,Spring Sale,Jan
+03/01/2024,Direct,Mobile,Australia,Product Page,299,227,121,52.52,236,32,672,Brand Awareness,Jan
+03/01/2024,Email Marketing,Mobile,Australia,Product Page,495,429,203,37.98,234,33,1881,Brand Awareness,Jan
+03/01/2024,Referral,Mobile,Canada,Promo Page,474,432,297,32.07,276,8,280,SEO Campaign,Jan
+04/01/2024,Google Ads,Tablet,UK,Home Page,499,375,226,34.12,185,9,468,New Product Launch,Jan
+04/01/2024,Facebook Ads,Mobile,Kenya,Promo Page,230,197,129,34.17,233,28,588,Email Campaign,Jan
+04/01/2024,Instagram Ads,Tablet,Australia,Checkout Page,116,107,54,35.53,236,18,630,Winter Sale,Jan
+04/01/2024,Organic Search,Desktop,USA,Landing Page,487,448,327,49.2,193,22,1188,Winter Sale,Jan
+04/01/2024,Direct,Mobile,Australia,Home Page,428,345,186,41.11,252,18,990,Brand Awareness,Jan
+04/01/2024,Email Marketing,Tablet,Canada,Checkout Page,356,279,156,48.09,284,19,988,None,Jan
+04/01/2024,Referral,Tablet,UK,Blog Page,101,80,59,38.61,271,10,460,Brand Awareness,Jan
+05/01/2024,Google Ads,Tablet,USA,Home Page,176,152,90,33.27,150,18,684,SEO Campaign,Jan
+05/01/2024,Facebook Ads,Mobile,USA,Checkout Page,299,252,134,51.85,213,11,616,Email Campaign,Jan
+05/01/2024,Instagram Ads,Mobile,Canada,Product Page,174,164,115,35.95,302,34,1428,Winter Sale,Jan
+05/01/2024,Organic Search,Tablet,UK,Landing Page,302,277,201,29.9,203,34,1394,Spring Sale,Jan
+05/01/2024,Direct,Desktop,India,Product Page,465,378,266,31.69,265,9,432,New Product Launch,Jan
+05/01/2024,Email Marketing,Mobile,Kenya,Checkout Page,385,355,257,41.81,146,6,234,SEO Campaign,Jan
+05/01/2024,Referral,Tablet,USA,Product Page,450,367,206,30.54,304,33,1353,None,Jan
+06/01/2024,Google Ads,Tablet,Kenya,Landing Page,269,217,136,28.82,269,12,300,SEO Campaign,Jan
+06/01/2024,Facebook Ads,Desktop,Germany,Promo Page,180,153,104,33.83,94,9,207,Brand Awareness,Jan
+06/01/2024,Instagram Ads,Tablet,USA,Landing Page,126,112,55,31.58,203,30,1470,SEO Campaign,Jan
+06/01/2024,Organic Search,Mobile,USA,Product Page,137,104,47,53.99,112,33,924,Spring Sale,Jan
+06/01/2024,Direct,Mobile,India,Blog Page,80,67,34,30.53,178,10,200,Brand Awareness,Jan
+06/01/2024,Email Marketing,Desktop,Australia,Blog Page,428,356,186,37.61,318,24,1152,None,Jan
+06/01/2024,Referral,Tablet,Australia,Home Page,173,159,105,40.8,307,28,1120,Brand Awareness,Jan
+07/01/2024,Google Ads,Desktop,UK,Landing Page,301,264,122,53.63,189,4,200,Spring Sale,Jan
+07/01/2024,Facebook Ads,Mobile,Australia,Landing Page,175,161,104,32.4,113,18,378,SEO Campaign,Jan
+07/01/2024,Instagram Ads,Tablet,USA,Home Page,231,204,126,31.47,278,21,1176,Spring Sale,Jan
+07/01/2024,Organic Search,Tablet,USA,Product Page,122,96,45,30.72,219,31,1674,Email Campaign,Jan
+07/01/2024,Direct,Mobile,Australia,Home Page,489,433,239,35.04,224,6,180,Email Campaign,Jan
+07/01/2024,Email Marketing,Desktop,USA,Checkout Page,328,281,162,43.35,316,19,1026,Email Campaign,Jan
+07/01/2024,Referral,Mobile,Kenya,Promo Page,347,290,195,48.37,194,32,1152,Winter Sale,Jan
+08/01/2024,Google Ads,Mobile,India,Promo Page,421,340,163,29.44,278,11,418,Brand Awareness,Jan
+08/01/2024,Facebook Ads,Mobile,Australia,Landing Page,302,283,176,45.06,206,7,378,Email Campaign,Jan
+08/01/2024,Instagram Ads,Desktop,India,Product Page,132,119,81,30.46,131,28,1624,Email Campaign,Jan
+08/01/2024,Organic Search,Desktop,Australia,Home Page,242,224,124,31.16,165,11,319,Email Campaign,Jan
+08/01/2024,Direct,Mobile,Germany,Blog Page,309,236,155,29.96,267,29,609,Brand Awareness,Jan
+08/01/2024,Email Marketing,Mobile,Germany,Promo Page,418,362,256,51.77,234,33,858,SEO Campaign,Jan
+08/01/2024,Referral,Desktop,Canada,Checkout Page,149,132,78,38.21,256,29,841,New Product Launch,Jan
+09/01/2024,Google Ads,Mobile,Canada,Blog Page,252,189,111,29.52,309,10,580,SEO Campaign,Jan
+09/01/2024,Facebook Ads,Desktop,Australia,Blog Page,269,223,132,30.24,250,8,200,Email Campaign,Jan
+09/01/2024,Instagram Ads,Tablet,Australia,Home Page,396,322,149,52.97,318,6,324,Spring Sale,Jan
+09/01/2024,Organic Search,Tablet,USA,Landing Page,126,110,72,40.27,206,24,528,SEO Campaign,Jan
+09/01/2024,Direct,Desktop,Australia,Promo Page,409,384,275,40.3,245,23,621,Spring Sale,Jan
+09/01/2024,Email Marketing,Desktop,India,Home Page,215,176,110,30.1,130,6,276,Winter Sale,Jan
+09/01/2024,Referral,Mobile,Kenya,Product Page,496,412,259,35.32,230,16,864,New Product Launch,Jan
+10/01/2024,Google Ads,Tablet,USA,Checkout Page,335,290,210,30.23,119,20,480,Winter Sale,Jan
+10/01/2024,Facebook Ads,Tablet,Canada,Home Page,225,213,105,44.04,152,27,1107,Email Campaign,Jan
+10/01/2024,Instagram Ads,Mobile,Germany,Blog Page,496,418,240,35.38,144,8,376,Brand Awareness,Jan
+10/01/2024,Organic Search,Mobile,Kenya,Home Page,338,291,198,53.51,291,21,756,Brand Awareness,Jan
+10/01/2024,Direct,Desktop,Australia,Product Page,80,75,47,34.17,202,10,510,Spring Sale,Jan
+10/01/2024,Email Marketing,Desktop,Kenya,Landing Page,241,203,141,36.31,282,24,576,Winter Sale,Jan
+10/01/2024,Referral,Tablet,Canada,Checkout Page,480,372,170,48.39,174,16,336,SEO Campaign,Jan
+11/01/2024,Google Ads,Mobile,Kenya,Home Page,305,250,156,38.59,180,21,1113,None,Jan
+11/01/2024,Facebook Ads,Desktop,USA,Promo Page,109,95,67,53.64,221,12,432,SEO Campaign,Jan
+11/01/2024,Instagram Ads,Tablet,India,Home Page,148,140,83,36.88,132,18,540,None,Jan
+11/01/2024,Organic Search,Mobile,Canada,Landing Page,262,227,129,46.84,221,10,230,New Product Launch,Jan
+11/01/2024,Direct,Desktop,Germany,Checkout Page,172,162,102,34.04,110,7,259,Email Campaign,Jan
+11/01/2024,Email Marketing,Desktop,Germany,Landing Page,405,313,184,33.57,123,19,627,Winter Sale,Jan
+11/01/2024,Referral,Desktop,Australia,Home Page,361,328,209,30.21,183,13,468,Winter Sale,Jan
+12/01/2024,Google Ads,Tablet,Kenya,Product Page,434,341,174,38,303,16,720,Email Campaign,Jan
+12/01/2024,Facebook Ads,Desktop,Kenya,Landing Page,233,176,92,47.26,200,25,925,New Product Launch,Jan
+12/01/2024,Instagram Ads,Tablet,Kenya,Product Page,94,72,48,32.92,128,27,972,Brand Awareness,Jan
+12/01/2024,Organic Search,Tablet,Australia,Checkout Page,379,301,166,40.8,227,5,185,Spring Sale,Jan
+12/01/2024,Direct,Desktop,UK,Landing Page,190,170,98,31.44,258,7,175,New Product Launch,Jan
+12/01/2024,Email Marketing,Tablet,Australia,Checkout Page,444,362,264,28.2,110,8,200,New Product Launch,Jan
+12/01/2024,Referral,Mobile,Australia,Checkout Page,397,361,168,50.74,220,21,1050,Spring Sale,Jan
+13/01/2024,Google Ads,Tablet,Kenya,Home Page,299,279,125,54.33,183,26,1482,Spring Sale,Jan
+13/01/2024,Facebook Ads,Desktop,Australia,Landing Page,414,354,209,50.64,222,8,360,SEO Campaign,Jan
+13/01/2024,Instagram Ads,Mobile,Kenya,Landing Page,304,272,165,47.1,231,34,1938,None,Jan
+13/01/2024,Organic Search,Desktop,Australia,Product Page,435,354,222,37.97,99,7,294,Email Campaign,Jan
+13/01/2024,Direct,Tablet,Kenya,Landing Page,247,225,118,46.4,106,11,330,Brand Awareness,Jan
+13/01/2024,Email Marketing,Mobile,UK,Promo Page,174,162,113,54.06,167,23,690,New Product Launch,Jan
+13/01/2024,Referral,Mobile,Germany,Checkout Page,114,106,70,29.3,182,10,300,SEO Campaign,Jan
+14/01/2024,Google Ads,Mobile,Germany,Product Page,365,333,168,34.36,167,28,644,Winter Sale,Jan
+14/01/2024,Facebook Ads,Mobile,India,Home Page,481,439,255,38.18,268,31,1767,Winter Sale,Jan
+14/01/2024,Instagram Ads,Tablet,Kenya,Checkout Page,224,208,117,42.68,193,10,580,New Product Launch,Jan
+14/01/2024,Organic Search,Desktop,India,Landing Page,470,421,277,32.5,200,31,1612,SEO Campaign,Jan
+14/01/2024,Direct,Desktop,UK,Product Page,236,184,100,34.71,272,3,69,Email Campaign,Jan
+14/01/2024,Email Marketing,Tablet,Germany,Blog Page,202,181,87,42.48,136,6,258,Email Campaign,Jan
+14/01/2024,Referral,Desktop,Canada,Landing Page,126,104,70,28.33,204,21,1155,Email Campaign,Jan
+15/01/2024,Google Ads,Desktop,Canada,Promo Page,227,178,128,43.75,289,25,1125,Spring Sale,Jan
+15/01/2024,Facebook Ads,Mobile,Germany,Product Page,220,171,82,34.91,193,30,930,Winter Sale,Jan
+15/01/2024,Instagram Ads,Tablet,India,Home Page,171,141,66,30.09,295,10,410,Brand Awareness,Jan
+15/01/2024,Organic Search,Tablet,Germany,Home Page,180,170,119,31.37,146,3,177,Email Campaign,Jan
+15/01/2024,Direct,Desktop,Canada,Checkout Page,216,170,116,44.3,124,33,1452,Spring Sale,Jan
+15/01/2024,Email Marketing,Mobile,India,Promo Page,470,385,258,40.21,260,29,1247,Brand Awareness,Jan
+15/01/2024,Referral,Mobile,India,Home Page,423,343,234,35.49,243,30,1200,SEO Campaign,Jan
+16/01/2024,Google Ads,Mobile,Germany,Checkout Page,440,343,197,30.3,278,10,260,None,Jan
+16/01/2024,Facebook Ads,Desktop,Canada,Product Page,458,416,230,40.64,138,15,720,Winter Sale,Jan
+16/01/2024,Instagram Ads,Desktop,Canada,Promo Page,157,140,85,42.43,202,20,980,Winter Sale,Jan
+16/01/2024,Organic Search,Mobile,India,Promo Page,343,316,231,38.08,291,21,1113,Spring Sale,Jan
+16/01/2024,Direct,Desktop,USA,Blog Page,470,414,189,33.99,305,25,675,New Product Launch,Jan
+16/01/2024,Email Marketing,Desktop,Canada,Promo Page,130,114,59,30.68,185,26,858,SEO Campaign,Jan
+16/01/2024,Referral,Tablet,USA,Blog Page,244,189,108,36.75,299,9,261,New Product Launch,Jan
+17/01/2024,Google Ads,Tablet,UK,Product Page,191,150,93,39.38,91,3,72,New Product Launch,Jan
+17/01/2024,Facebook Ads,Mobile,Australia,Landing Page,198,159,101,39.05,311,11,583,SEO Campaign,Jan
+17/01/2024,Instagram Ads,Mobile,UK,Landing Page,421,381,184,43.28,148,16,672,Winter Sale,Jan
+17/01/2024,Organic Search,Tablet,Kenya,Promo Page,93,83,54,38.87,290,24,984,Spring Sale,Jan
+17/01/2024,Direct,Desktop,Australia,Home Page,108,84,44,28.5,235,34,1360,Brand Awareness,Jan
+17/01/2024,Email Marketing,Mobile,Canada,Home Page,113,97,62,50.4,176,23,943,None,Jan
+17/01/2024,Referral,Mobile,USA,Product Page,213,190,99,45.09,142,9,261,Email Campaign,Jan
+18/01/2024,Google Ads,Tablet,UK,Blog Page,269,229,106,32.49,196,3,165,Email Campaign,Jan
+18/01/2024,Facebook Ads,Desktop,UK,Checkout Page,346,279,155,47.41,128,10,540,Brand Awareness,Jan
+18/01/2024,Instagram Ads,Desktop,Canada,Blog Page,148,125,66,42.58,300,5,180,New Product Launch,Jan
+18/01/2024,Organic Search,Mobile,Canada,Product Page,280,253,121,30.03,106,3,132,Winter Sale,Jan
+18/01/2024,Direct,Desktop,Australia,Landing Page,118,90,42,28.06,268,32,1824,Email Campaign,Jan
+18/01/2024,Email Marketing,Desktop,Canada,Blog Page,123,112,82,49.33,146,25,775,Winter Sale,Jan
+18/01/2024,Referral,Tablet,Canada,Product Page,294,263,168,54.48,299,27,837,Winter Sale,Jan
+19/01/2024,Google Ads,Mobile,Kenya,Product Page,444,392,181,43.88,234,25,1125,None,Jan
+19/01/2024,Facebook Ads,Mobile,UK,Checkout Page,349,270,180,33.2,161,20,840,SEO Campaign,Jan
+19/01/2024,Instagram Ads,Tablet,Germany,Landing Page,481,411,264,45.55,241,5,265,Spring Sale,Jan
+19/01/2024,Organic Search,Mobile,Germany,Product Page,262,217,134,49.71,93,31,1271,Winter Sale,Jan
+19/01/2024,Direct,Desktop,Canada,Blog Page,95,79,56,39.27,316,12,636,Email Campaign,Jan
+19/01/2024,Email Marketing,Desktop,Germany,Promo Page,353,331,228,54.94,118,32,1536,Winter Sale,Jan
+19/01/2024,Referral,Mobile,USA,Checkout Page,351,324,241,48.74,242,33,1914,Winter Sale,Jan
+20/01/2024,Google Ads,Mobile,USA,Blog Page,82,69,37,51.03,235,32,1792,Brand Awareness,Jan
+20/01/2024,Facebook Ads,Mobile,Germany,Landing Page,152,117,66,31.36,276,28,1568,SEO Campaign,Jan
+20/01/2024,Instagram Ads,Mobile,India,Promo Page,277,262,187,44.22,151,15,795,SEO Campaign,Jan
+20/01/2024,Organic Search,Mobile,UK,Home Page,138,114,79,34.23,199,12,636,Winter Sale,Jan
+20/01/2024,Direct,Tablet,Australia,Product Page,338,309,213,45,304,19,532,Winter Sale,Jan
+20/01/2024,Email Marketing,Tablet,Kenya,Blog Page,140,112,67,41.26,234,26,572,Email Campaign,Jan
+20/01/2024,Referral,Tablet,Australia,Blog Page,168,145,90,30.47,194,26,572,Winter Sale,Jan
+21/01/2024,Google Ads,Tablet,Canada,Product Page,274,257,182,49.86,129,27,648,SEO Campaign,Jan
+21/01/2024,Facebook Ads,Mobile,Germany,Home Page,117,93,62,41.39,287,7,224,Spring Sale,Jan
+21/01/2024,Instagram Ads,Desktop,Canada,Blog Page,119,110,66,52.48,156,26,1534,Email Campaign,Jan
+21/01/2024,Organic Search,Tablet,Germany,Home Page,368,340,234,45.78,186,29,928,Email Campaign,Jan
+21/01/2024,Direct,Tablet,UK,Product Page,249,192,126,33.11,222,13,650,New Product Launch,Jan
+21/01/2024,Email Marketing,Tablet,UK,Blog Page,237,220,99,43.02,166,31,961,Brand Awareness,Jan
+21/01/2024,Referral,Mobile,Canada,Checkout Page,234,221,141,35.01,277,34,1462,New Product Launch,Jan
+22/01/2024,Google Ads,Desktop,Germany,Blog Page,493,371,215,50.68,245,30,1020,Brand Awareness,Jan
+22/01/2024,Facebook Ads,Desktop,USA,Product Page,275,215,146,53.58,281,19,589,Brand Awareness,Jan
+22/01/2024,Instagram Ads,Tablet,Canada,Promo Page,272,207,97,51.02,103,34,1632,Email Campaign,Jan
+22/01/2024,Organic Search,Desktop,India,Product Page,86,65,45,38.04,249,21,630,Spring Sale,Jan
+22/01/2024,Direct,Mobile,Canada,Promo Page,305,289,166,40.19,128,17,816,Spring Sale,Jan
+22/01/2024,Email Marketing,Mobile,Germany,Blog Page,254,225,145,35.38,170,32,1504,New Product Launch,Jan
+22/01/2024,Referral,Tablet,UK,Blog Page,163,135,71,54.57,90,28,1596,New Product Launch,Jan
+23/01/2024,Google Ads,Desktop,USA,Home Page,399,368,244,43.19,297,29,783,Email Campaign,Jan
+23/01/2024,Facebook Ads,Mobile,Australia,Product Page,388,302,177,42.32,288,5,240,New Product Launch,Jan
+23/01/2024,Instagram Ads,Mobile,Kenya,Home Page,483,439,260,31.17,106,32,1248,SEO Campaign,Jan
+23/01/2024,Organic Search,Mobile,Germany,Product Page,398,350,191,43.94,161,13,416,Brand Awareness,Jan
+23/01/2024,Direct,Mobile,Australia,Checkout Page,399,330,244,47.49,100,15,660,Winter Sale,Jan
+23/01/2024,Email Marketing,Tablet,Kenya,Checkout Page,471,421,284,31.94,165,27,1377,SEO Campaign,Jan
+23/01/2024,Referral,Mobile,USA,Blog Page,227,185,126,53.41,186,4,208,Brand Awareness,Jan
+24/01/2024,Google Ads,Desktop,UK,Product Page,496,453,252,36.7,255,9,405,None,Jan
+24/01/2024,Facebook Ads,Mobile,Kenya,Home Page,185,144,69,45.18,284,29,725,None,Jan
+24/01/2024,Instagram Ads,Desktop,India,Landing Page,302,259,171,51.52,267,30,1170,None,Jan
+24/01/2024,Organic Search,Tablet,USA,Promo Page,86,75,46,44.13,111,28,616,Spring Sale,Jan
+24/01/2024,Direct,Tablet,Kenya,Promo Page,93,71,33,34.67,230,27,1026,Email Campaign,Jan
+24/01/2024,Email Marketing,Desktop,Canada,Checkout Page,471,435,252,29.18,133,20,500,Email Campaign,Jan
+24/01/2024,Referral,Desktop,India,Home Page,431,370,221,30.2,124,31,1488,None,Jan
+25/01/2024,Google Ads,Desktop,Australia,Promo Page,411,322,237,39.23,113,22,1232,Spring Sale,Jan
+25/01/2024,Facebook Ads,Desktop,India,Product Page,256,218,136,28.79,187,34,1870,SEO Campaign,Jan
+25/01/2024,Instagram Ads,Mobile,UK,Blog Page,341,300,224,35.66,214,14,308,None,Jan
+25/01/2024,Organic Search,Desktop,UK,Blog Page,304,235,156,52.54,176,12,396,Email Campaign,Jan
+25/01/2024,Direct,Tablet,Kenya,Home Page,120,95,67,40.02,306,22,462,New Product Launch,Jan
+25/01/2024,Email Marketing,Mobile,India,Landing Page,424,400,210,45.73,282,10,310,Spring Sale,Jan
+25/01/2024,Referral,Mobile,Australia,Landing Page,274,229,125,40.12,165,32,640,SEO Campaign,Jan
+26/01/2024,Google Ads,Mobile,USA,Home Page,80,64,35,38.24,196,7,392,SEO Campaign,Jan
+26/01/2024,Facebook Ads,Desktop,USA,Blog Page,391,339,240,33.56,278,22,726,SEO Campaign,Jan
+26/01/2024,Instagram Ads,Mobile,Canada,Checkout Page,361,273,132,40.21,148,7,364,SEO Campaign,Jan
+26/01/2024,Organic Search,Mobile,India,Landing Page,355,336,248,28.13,315,27,1296,Spring Sale,Jan
+26/01/2024,Direct,Desktop,UK,Promo Page,486,429,211,28.81,134,22,770,None,Jan
+26/01/2024,Email Marketing,Tablet,Kenya,Product Page,87,82,39,46.16,185,8,192,Winter Sale,Jan
+26/01/2024,Referral,Tablet,USA,Promo Page,390,368,206,28.47,299,19,855,New Product Launch,Jan
+27/01/2024,Google Ads,Mobile,Germany,Home Page,407,370,268,44.22,120,18,594,Spring Sale,Jan
+27/01/2024,Facebook Ads,Mobile,USA,Blog Page,299,233,147,36.59,250,11,484,Email Campaign,Jan
+27/01/2024,Instagram Ads,Desktop,UK,Product Page,238,213,151,38.91,221,8,304,Email Campaign,Jan
+27/01/2024,Organic Search,Mobile,India,Home Page,358,299,207,31.25,143,9,396,SEO Campaign,Jan
+27/01/2024,Direct,Mobile,Canada,Promo Page,278,239,134,42.81,250,19,969,Brand Awareness,Jan
+27/01/2024,Email Marketing,Mobile,UK,Product Page,346,301,195,44.73,263,11,242,Brand Awareness,Jan
+27/01/2024,Referral,Tablet,Australia,Promo Page,491,370,204,38.27,315,18,1008,None,Jan
+28/01/2024,Google Ads,Tablet,Canada,Blog Page,122,110,76,47.39,212,13,520,SEO Campaign,Jan
+28/01/2024,Facebook Ads,Tablet,UK,Checkout Page,478,381,277,29.63,110,15,615,Email Campaign,Jan
+28/01/2024,Instagram Ads,Desktop,Australia,Checkout Page,452,364,197,49.68,124,10,350,Spring Sale,Jan
+28/01/2024,Organic Search,Desktop,India,Blog Page,81,65,37,31.29,292,9,450,None,Jan
+28/01/2024,Direct,Desktop,India,Checkout Page,150,121,83,33,273,6,234,Winter Sale,Jan
+28/01/2024,Email Marketing,Desktop,Australia,Home Page,251,190,121,53.69,208,24,960,Spring Sale,Jan
+28/01/2024,Referral,Mobile,UK,Landing Page,88,77,38,37.74,259,10,430,Email Campaign,Jan
+29/01/2024,Google Ads,Tablet,Australia,Product Page,147,118,82,39.44,291,27,999,Winter Sale,Jan
+29/01/2024,Facebook Ads,Mobile,Kenya,Blog Page,321,250,130,51.47,250,25,1000,None,Jan
+29/01/2024,Instagram Ads,Desktop,Canada,Blog Page,498,433,265,34.26,167,15,660,Spring Sale,Jan
+29/01/2024,Organic Search,Desktop,Canada,Promo Page,402,337,196,47.56,292,9,387,Spring Sale,Jan
+29/01/2024,Direct,Tablet,USA,Home Page,181,156,83,30.14,318,3,165,New Product Launch,Jan
+29/01/2024,Email Marketing,Tablet,Germany,Checkout Page,149,122,57,42.01,219,30,720,Spring Sale,Jan
+29/01/2024,Referral,Desktop,Kenya,Home Page,146,125,68,36.99,159,4,168,New Product Launch,Jan
+30/01/2024,Google Ads,Mobile,Germany,Home Page,433,363,199,43.67,275,6,144,None,Jan
+30/01/2024,Facebook Ads,Tablet,Kenya,Blog Page,287,238,137,50.19,101,19,665,None,Jan
+30/01/2024,Instagram Ads,Mobile,Australia,Checkout Page,427,403,183,47.9,197,3,147,Brand Awareness,Jan
+30/01/2024,Organic Search,Mobile,India,Product Page,310,286,180,41.68,315,31,1023,Email Campaign,Jan
+30/01/2024,Direct,Desktop,India,Product Page,145,119,65,34.45,282,13,286,SEO Campaign,Jan
+30/01/2024,Email Marketing,Tablet,USA,Product Page,390,305,209,43.51,149,7,217,Brand Awareness,Jan
+30/01/2024,Referral,Tablet,Australia,Checkout Page,161,140,91,42.38,295,8,176,Winter Sale,Jan
+31/01/2024,Google Ads,Desktop,UK,Home Page,478,397,199,46.76,299,16,624,Spring Sale,Jan
+31/01/2024,Facebook Ads,Desktop,Kenya,Blog Page,360,304,165,44.37,154,16,560,SEO Campaign,Jan
+31/01/2024,Instagram Ads,Desktop,Australia,Home Page,466,438,305,45.99,315,10,400,None,Jan
+31/01/2024,Organic Search,Desktop,Australia,Product Page,147,112,76,31.29,181,15,750,Email Campaign,Jan
+31/01/2024,Direct,Tablet,India,Landing Page,395,363,163,28.48,219,30,1260,Email Campaign,Jan
+31/01/2024,Email Marketing,Mobile,India,Landing Page,497,418,195,54.86,248,26,884,Winter Sale,Jan
+31/01/2024,Referral,Mobile,Australia,Promo Page,178,136,93,35.17,96,18,630,None,Jan
+01/02/2024,Google Ads,Tablet,UK,Blog Page,119,108,68,36.27,141,6,342,SEO Campaign,Feb
+01/02/2024,Facebook Ads,Tablet,Germany,Blog Page,270,226,114,37.93,181,24,792,Brand Awareness,Feb
+01/02/2024,Instagram Ads,Desktop,India,Product Page,212,159,91,41,319,17,680,None,Feb
+01/02/2024,Organic Search,Mobile,Germany,Promo Page,468,371,168,34.51,302,23,851,Winter Sale,Feb
+01/02/2024,Direct,Desktop,Australia,Promo Page,267,234,140,35.18,206,28,644,Spring Sale,Feb
+01/02/2024,Email Marketing,Mobile,USA,Home Page,311,283,179,51.21,131,23,736,Winter Sale,Feb
+01/02/2024,Referral,Mobile,Australia,Landing Page,208,189,89,35.54,147,34,2006,None,Feb
+02/02/2024,Google Ads,Mobile,Canada,Blog Page,369,305,178,34.13,234,30,1260,SEO Campaign,Feb
+02/02/2024,Facebook Ads,Tablet,USA,Blog Page,166,147,67,30.29,132,3,129,SEO Campaign,Feb
+02/02/2024,Instagram Ads,Tablet,Canada,Promo Page,356,294,173,54.77,269,17,646,New Product Launch,Feb
+02/02/2024,Organic Search,Mobile,India,Home Page,340,292,204,29.86,227,8,408,Winter Sale,Feb
+02/02/2024,Direct,Mobile,Australia,Promo Page,128,102,53,29.87,306,28,812,New Product Launch,Feb
+02/02/2024,Email Marketing,Tablet,UK,Home Page,337,293,183,48.2,121,34,1802,Spring Sale,Feb
+02/02/2024,Referral,Desktop,Australia,Blog Page,262,201,113,42.85,306,20,820,SEO Campaign,Feb
+03/02/2024,Google Ads,Tablet,India,Home Page,367,311,141,54.8,211,34,1666,SEO Campaign,Feb
+03/02/2024,Facebook Ads,Desktop,India,Promo Page,312,267,171,33.97,215,10,590,New Product Launch,Feb
+03/02/2024,Instagram Ads,Desktop,Germany,Blog Page,335,287,213,53.31,118,15,555,None,Feb
+03/02/2024,Organic Search,Tablet,Germany,Blog Page,362,341,203,32.07,133,15,615,Winter Sale,Feb
+03/02/2024,Direct,Mobile,India,Product Page,263,229,110,32.09,119,9,396,Spring Sale,Feb
+03/02/2024,Email Marketing,Desktop,UK,Landing Page,223,203,136,51.8,221,10,540,Winter Sale,Feb
+03/02/2024,Referral,Mobile,Australia,Promo Page,89,79,54,44.6,155,11,352,Brand Awareness,Feb
+04/02/2024,Google Ads,Mobile,USA,Promo Page,313,282,129,48.13,103,27,1431,New Product Launch,Feb
+04/02/2024,Facebook Ads,Tablet,Germany,Promo Page,479,373,202,51.67,190,28,644,SEO Campaign,Feb
+04/02/2024,Instagram Ads,Tablet,Germany,Product Page,473,438,275,38.57,302,24,1416,Brand Awareness,Feb
+04/02/2024,Organic Search,Desktop,Canada,Blog Page,339,266,150,38.86,160,6,288,Spring Sale,Feb
+04/02/2024,Direct,Tablet,Australia,Promo Page,134,119,55,41.14,247,20,760,New Product Launch,Feb
+04/02/2024,Email Marketing,Mobile,India,Promo Page,384,336,166,46.78,165,32,1824,New Product Launch,Feb
+04/02/2024,Referral,Tablet,India,Landing Page,252,196,107,39.72,235,33,1551,Winter Sale,Feb
+05/02/2024,Google Ads,Desktop,India,Checkout Page,197,173,99,45.18,136,29,986,SEO Campaign,Feb
+05/02/2024,Facebook Ads,Mobile,Canada,Home Page,154,138,101,33.48,150,12,264,Brand Awareness,Feb
+05/02/2024,Instagram Ads,Desktop,Canada,Checkout Page,333,288,189,53.1,140,23,874,Spring Sale,Feb
+05/02/2024,Organic Search,Desktop,UK,Promo Page,148,135,68,49.67,163,34,816,Brand Awareness,Feb
+05/02/2024,Direct,Mobile,Australia,Blog Page,310,288,208,49.07,189,8,400,Brand Awareness,Feb
+05/02/2024,Email Marketing,Desktop,UK,Checkout Page,487,370,197,35.07,252,25,1175,None,Feb
+05/02/2024,Referral,Desktop,UK,Landing Page,185,170,90,32.22,317,26,1014,Winter Sale,Feb
+06/02/2024,Google Ads,Tablet,Australia,Blog Page,100,85,48,37.38,216,17,629,Spring Sale,Feb
+06/02/2024,Facebook Ads,Mobile,Canada,Product Page,233,194,102,47.73,147,23,851,Email Campaign,Feb
+06/02/2024,Instagram Ads,Desktop,Germany,Promo Page,384,323,239,44.43,278,11,572,None,Feb
+06/02/2024,Organic Search,Desktop,Canada,Home Page,406,360,220,54.47,150,4,188,None,Feb
+06/02/2024,Direct,Mobile,Germany,Product Page,165,141,89,34.11,187,3,87,Brand Awareness,Feb
+06/02/2024,Email Marketing,Desktop,Australia,Checkout Page,191,151,72,51.27,268,31,1798,SEO Campaign,Feb
+06/02/2024,Referral,Mobile,Australia,Product Page,138,116,54,49.23,281,34,884,None,Feb
+07/02/2024,Google Ads,Desktop,Canada,Blog Page,147,132,79,33.53,302,17,697,Winter Sale,Feb
+07/02/2024,Facebook Ads,Mobile,UK,Promo Page,247,233,158,28.73,242,26,572,New Product Launch,Feb
+07/02/2024,Instagram Ads,Tablet,Canada,Promo Page,341,281,164,38.73,260,21,504,Spring Sale,Feb
+07/02/2024,Organic Search,Tablet,India,Checkout Page,87,70,48,43.6,174,10,280,Spring Sale,Feb
+07/02/2024,Direct,Tablet,UK,Landing Page,121,101,62,32.48,169,5,110,Brand Awareness,Feb
+07/02/2024,Email Marketing,Desktop,Kenya,Checkout Page,496,431,198,37.82,249,30,1680,Brand Awareness,Feb
+07/02/2024,Referral,Desktop,Germany,Product Page,354,327,225,41.64,105,3,120,SEO Campaign,Feb
+08/02/2024,Google Ads,Tablet,USA,Promo Page,491,454,262,32.38,116,7,308,Winter Sale,Feb
+08/02/2024,Facebook Ads,Mobile,Australia,Checkout Page,483,448,212,47.75,278,30,1440,Spring Sale,Feb
+08/02/2024,Instagram Ads,Mobile,UK,Checkout Page,213,190,103,40.72,264,14,392,New Product Launch,Feb
+08/02/2024,Organic Search,Mobile,Canada,Promo Page,155,126,63,47.22,307,32,1664,Spring Sale,Feb
+08/02/2024,Direct,Mobile,Germany,Promo Page,120,107,54,44.57,112,18,738,New Product Launch,Feb
+08/02/2024,Email Marketing,Tablet,Australia,Checkout Page,429,405,259,31.41,105,4,84,Winter Sale,Feb
+08/02/2024,Referral,Desktop,USA,Checkout Page,227,180,126,35.54,280,5,115,None,Feb
+09/02/2024,Google Ads,Mobile,India,Home Page,270,206,139,39.02,231,6,186,New Product Launch,Feb
+09/02/2024,Facebook Ads,Desktop,Kenya,Checkout Page,331,292,154,52.49,308,25,1150,Brand Awareness,Feb
+09/02/2024,Instagram Ads,Mobile,USA,Checkout Page,179,147,71,39.14,167,29,1131,Spring Sale,Feb
+09/02/2024,Organic Search,Mobile,Australia,Promo Page,181,145,102,35.89,268,5,190,Email Campaign,Feb
+09/02/2024,Direct,Tablet,Australia,Checkout Page,406,354,218,44.96,210,30,1140,Brand Awareness,Feb
+09/02/2024,Email Marketing,Desktop,Canada,Blog Page,396,302,159,29.25,250,26,1144,New Product Launch,Feb
+09/02/2024,Referral,Mobile,India,Blog Page,413,371,172,52.38,97,4,164,Brand Awareness,Feb
+10/02/2024,Google Ads,Mobile,Australia,Blog Page,448,361,208,35.23,139,23,920,New Product Launch,Feb
+10/02/2024,Facebook Ads,Desktop,USA,Blog Page,251,194,92,52.56,157,5,180,None,Feb
+10/02/2024,Instagram Ads,Desktop,Germany,Landing Page,411,383,225,31.71,236,28,1344,Brand Awareness,Feb
+10/02/2024,Organic Search,Desktop,Australia,Blog Page,355,322,206,46.26,181,30,690,New Product Launch,Feb
+10/02/2024,Direct,Tablet,Kenya,Checkout Page,421,337,179,40.77,194,3,81,Brand Awareness,Feb
+10/02/2024,Email Marketing,Desktop,USA,Home Page,232,174,80,44.31,116,10,380,Email Campaign,Feb
+10/02/2024,Referral,Mobile,Kenya,Home Page,188,159,80,44.49,173,26,832,Brand Awareness,Feb
+11/02/2024,Google Ads,Mobile,USA,Checkout Page,448,355,163,30.92,179,9,360,Spring Sale,Feb
+11/02/2024,Facebook Ads,Mobile,Canada,Landing Page,442,335,178,50.05,138,11,396,None,Feb
+11/02/2024,Instagram Ads,Tablet,Kenya,Blog Page,262,242,144,46.96,236,13,416,Winter Sale,Feb
+11/02/2024,Organic Search,Mobile,UK,Promo Page,247,206,118,52.51,198,14,728,Spring Sale,Feb
+11/02/2024,Direct,Desktop,UK,Product Page,87,80,36,47.37,264,25,975,SEO Campaign,Feb
+11/02/2024,Email Marketing,Mobile,USA,Promo Page,240,201,112,31.27,245,10,390,Spring Sale,Feb
+11/02/2024,Referral,Tablet,Canada,Blog Page,322,264,193,46.05,194,12,252,Spring Sale,Feb
+12/02/2024,Google Ads,Desktop,Canada,Blog Page,477,418,302,44.54,117,5,195,Spring Sale,Feb
+12/02/2024,Facebook Ads,Tablet,Canada,Home Page,172,131,79,31.84,170,11,341,None,Feb
+12/02/2024,Instagram Ads,Tablet,USA,Checkout Page,380,315,227,49.82,216,33,1452,SEO Campaign,Feb
+12/02/2024,Organic Search,Desktop,Kenya,Promo Page,356,316,182,46.17,208,11,627,SEO Campaign,Feb
+12/02/2024,Direct,Tablet,UK,Landing Page,433,358,209,43.64,130,33,1386,Winter Sale,Feb
+12/02/2024,Email Marketing,Tablet,Australia,Blog Page,197,175,114,38.11,273,30,1680,Winter Sale,Feb
+12/02/2024,Referral,Tablet,India,Landing Page,272,255,140,41.97,235,30,1620,Brand Awareness,Feb
+13/02/2024,Google Ads,Desktop,USA,Promo Page,474,385,251,44.36,251,18,558,Winter Sale,Feb
+13/02/2024,Facebook Ads,Desktop,Canada,Checkout Page,444,419,217,54.39,156,13,299,Brand Awareness,Feb
+13/02/2024,Instagram Ads,Mobile,Kenya,Product Page,442,365,181,28.63,148,31,1054,Email Campaign,Feb
+13/02/2024,Organic Search,Desktop,Australia,Home Page,201,155,114,36.48,176,8,184,Winter Sale,Feb
+13/02/2024,Direct,Mobile,Germany,Home Page,364,293,216,38.52,198,34,1394,Winter Sale,Feb
+13/02/2024,Email Marketing,Mobile,Canada,Product Page,476,408,276,50.51,268,5,265,Winter Sale,Feb
+13/02/2024,Referral,Tablet,Germany,Landing Page,420,343,182,54.09,192,6,120,Email Campaign,Feb
+14/02/2024,Google Ads,Desktop,USA,Product Page,190,173,88,49.12,188,30,1110,New Product Launch,Feb
+14/02/2024,Facebook Ads,Tablet,Canada,Blog Page,244,218,107,51.02,190,6,228,Spring Sale,Feb
+14/02/2024,Instagram Ads,Mobile,USA,Promo Page,346,283,166,29.03,228,9,423,Winter Sale,Feb
+14/02/2024,Organic Search,Desktop,India,Product Page,125,94,69,53.63,243,18,918,SEO Campaign,Feb
+14/02/2024,Direct,Tablet,Germany,Checkout Page,181,154,95,39.91,244,13,468,New Product Launch,Feb
+14/02/2024,Email Marketing,Tablet,USA,Promo Page,161,135,85,43.97,224,15,810,Email Campaign,Feb
+14/02/2024,Referral,Tablet,Germany,Blog Page,416,365,196,34.49,152,8,176,None,Feb
+15/02/2024,Google Ads,Desktop,UK,Product Page,268,250,113,40.87,182,24,528,Brand Awareness,Feb
+15/02/2024,Facebook Ads,Tablet,Canada,Landing Page,356,292,201,35.53,273,32,1568,Spring Sale,Feb
+15/02/2024,Instagram Ads,Mobile,Germany,Home Page,343,325,155,28.06,156,3,165,None,Feb
+15/02/2024,Organic Search,Tablet,UK,Home Page,116,87,63,50.19,290,33,660,Spring Sale,Feb
+15/02/2024,Direct,Mobile,Germany,Product Page,463,410,187,36.27,161,5,165,Email Campaign,Feb
+15/02/2024,Email Marketing,Desktop,Australia,Checkout Page,140,107,76,46.41,234,25,1325,SEO Campaign,Feb
+15/02/2024,Referral,Tablet,Kenya,Checkout Page,401,306,174,35.97,123,9,198,None,Feb
+16/02/2024,Google Ads,Mobile,Germany,Blog Page,106,79,49,50.74,234,11,539,New Product Launch,Feb
+16/02/2024,Facebook Ads,Desktop,UK,Product Page,132,109,73,33.07,272,25,1275,SEO Campaign,Feb
+16/02/2024,Instagram Ads,Tablet,Kenya,Checkout Page,133,101,66,34.53,245,16,688,None,Feb
+16/02/2024,Organic Search,Desktop,UK,Product Page,339,263,179,35.33,208,33,1089,None,Feb
+16/02/2024,Direct,Desktop,Kenya,Home Page,154,123,70,30.77,182,28,1036,None,Feb
+16/02/2024,Email Marketing,Tablet,USA,Home Page,167,153,69,34.66,210,34,1632,New Product Launch,Feb
+16/02/2024,Referral,Tablet,USA,Checkout Page,226,195,138,43.44,171,17,544,SEO Campaign,Feb
+17/02/2024,Google Ads,Mobile,India,Product Page,258,198,129,41.33,250,30,1380,None,Feb
+17/02/2024,Facebook Ads,Mobile,Australia,Home Page,102,81,57,32.94,113,14,420,Brand Awareness,Feb
+17/02/2024,Instagram Ads,Desktop,India,Promo Page,280,215,147,45.39,131,19,1064,Winter Sale,Feb
+17/02/2024,Organic Search,Mobile,Germany,Product Page,434,365,187,37.96,194,30,780,Email Campaign,Feb
+17/02/2024,Direct,Mobile,Australia,Blog Page,476,396,263,38.02,255,13,533,None,Feb
+17/02/2024,Email Marketing,Desktop,Australia,Promo Page,252,190,107,53.13,125,20,440,Email Campaign,Feb
+17/02/2024,Referral,Mobile,Australia,Blog Page,107,95,48,52.04,316,15,435,Spring Sale,Feb
+18/02/2024,Google Ads,Desktop,Canada,Home Page,125,99,71,50.63,170,6,198,New Product Launch,Feb
+18/02/2024,Facebook Ads,Desktop,Australia,Product Page,190,155,111,35.2,118,13,572,Brand Awareness,Feb
+18/02/2024,Instagram Ads,Tablet,Kenya,Blog Page,400,324,221,48.87,193,30,930,Spring Sale,Feb
+18/02/2024,Organic Search,Mobile,USA,Home Page,266,219,122,32.91,224,34,1734,None,Feb
+18/02/2024,Direct,Mobile,India,Promo Page,86,70,39,28.04,132,23,1265,None,Feb
+18/02/2024,Email Marketing,Mobile,Kenya,Landing Page,386,291,209,49.15,306,26,702,SEO Campaign,Feb
+18/02/2024,Referral,Tablet,Australia,Product Page,183,139,72,34.66,245,15,510,SEO Campaign,Feb
+19/02/2024,Google Ads,Tablet,Australia,Checkout Page,169,160,83,42.33,301,20,600,Winter Sale,Feb
+19/02/2024,Facebook Ads,Tablet,Germany,Landing Page,96,76,38,31.8,115,27,783,New Product Launch,Feb
+19/02/2024,Instagram Ads,Mobile,India,Promo Page,260,222,160,32.42,292,13,260,Brand Awareness,Feb
+19/02/2024,Organic Search,Mobile,UK,Blog Page,295,264,161,29.64,263,20,900,SEO Campaign,Feb
+19/02/2024,Direct,Tablet,Germany,Product Page,387,308,142,39.22,255,29,1537,Email Campaign,Feb
+19/02/2024,Email Marketing,Desktop,Germany,Checkout Page,125,95,50,49.79,299,16,464,New Product Launch,Feb
+19/02/2024,Referral,Mobile,UK,Landing Page,85,71,36,29.35,250,19,570,None,Feb
+20/02/2024,Google Ads,Desktop,USA,Promo Page,235,207,99,45.19,137,26,1170,New Product Launch,Feb
+20/02/2024,Facebook Ads,Desktop,Australia,Promo Page,436,365,229,29.97,207,20,900,New Product Launch,Feb
+20/02/2024,Instagram Ads,Tablet,Germany,Product Page,364,339,248,53.92,169,4,212,Brand Awareness,Feb
+20/02/2024,Organic Search,Desktop,Kenya,Blog Page,431,349,181,40.37,170,29,1131,Brand Awareness,Feb
+20/02/2024,Direct,Desktop,Australia,Product Page,123,92,41,37.64,245,12,480,None,Feb
+20/02/2024,Email Marketing,Mobile,Kenya,Landing Page,170,136,71,38.87,197,15,435,Spring Sale,Feb
+20/02/2024,Referral,Tablet,Canada,Home Page,208,157,106,38.04,301,22,1078,None,Feb
+21/02/2024,Google Ads,Desktop,Australia,Home Page,170,136,86,54.8,182,22,1012,Spring Sale,Feb
+21/02/2024,Facebook Ads,Mobile,USA,Blog Page,336,264,191,30.75,99,29,870,Spring Sale,Feb
+21/02/2024,Instagram Ads,Tablet,Canada,Blog Page,272,213,151,35.63,310,6,144,New Product Launch,Feb
+21/02/2024,Organic Search,Desktop,Germany,Blog Page,155,139,74,37.53,136,25,650,Brand Awareness,Feb
+21/02/2024,Direct,Mobile,Canada,Checkout Page,211,192,137,42.7,198,31,837,SEO Campaign,Feb
+21/02/2024,Email Marketing,Tablet,Germany,Promo Page,403,326,232,40.42,200,26,1196,Spring Sale,Feb
+21/02/2024,Referral,Mobile,Germany,Checkout Page,103,84,58,41.92,266,25,1050,Email Campaign,Feb
+22/02/2024,Google Ads,Tablet,India,Checkout Page,397,339,212,29.66,159,7,203,Email Campaign,Feb
+22/02/2024,Facebook Ads,Desktop,Canada,Promo Page,396,331,236,29.4,285,30,930,None,Feb
+22/02/2024,Instagram Ads,Tablet,Canada,Checkout Page,248,228,131,36.18,279,7,308,Winter Sale,Feb
+22/02/2024,Organic Search,Mobile,Kenya,Blog Page,461,376,281,38.96,105,26,1066,Winter Sale,Feb
+22/02/2024,Direct,Mobile,Canada,Product Page,351,268,164,47.15,276,4,112,Brand Awareness,Feb
+22/02/2024,Email Marketing,Mobile,USA,Home Page,352,306,164,47.29,238,7,399,New Product Launch,Feb
+22/02/2024,Referral,Tablet,Kenya,Home Page,371,350,204,32.29,104,34,1972,None,Feb
+23/02/2024,Google Ads,Mobile,Germany,Checkout Page,486,376,265,37.3,251,29,1392,Brand Awareness,Feb
+23/02/2024,Facebook Ads,Mobile,Canada,Product Page,419,396,279,46.93,165,18,360,None,Feb
+23/02/2024,Instagram Ads,Desktop,UK,Home Page,179,162,108,38.38,172,13,702,Brand Awareness,Feb
+23/02/2024,Organic Search,Mobile,Canada,Blog Page,241,201,104,47.03,172,8,416,Winter Sale,Feb
+23/02/2024,Direct,Tablet,Canada,Product Page,362,306,148,53.96,279,5,190,Winter Sale,Feb
+23/02/2024,Email Marketing,Tablet,Kenya,Landing Page,227,200,127,36.55,111,21,1176,Spring Sale,Feb
+23/02/2024,Referral,Mobile,Australia,Checkout Page,351,332,211,34.68,161,30,1560,Email Campaign,Feb
+24/02/2024,Google Ads,Desktop,Germany,Checkout Page,410,323,185,53.24,94,27,1269,New Product Launch,Feb
+24/02/2024,Facebook Ads,Desktop,India,Promo Page,112,90,52,46.51,286,29,609,Winter Sale,Feb
+24/02/2024,Instagram Ads,Mobile,UK,Product Page,220,199,133,31.14,304,21,1008,Winter Sale,Feb
+24/02/2024,Organic Search,Desktop,USA,Blog Page,136,102,59,54.38,155,8,192,Spring Sale,Feb
+24/02/2024,Direct,Desktop,Australia,Product Page,298,254,119,44.35,187,27,1458,Brand Awareness,Feb
+24/02/2024,Email Marketing,Mobile,Kenya,Promo Page,101,78,49,32.65,319,22,1012,SEO Campaign,Feb
+24/02/2024,Referral,Desktop,India,Landing Page,482,421,271,35.22,123,24,528,Spring Sale,Feb
+25/02/2024,Google Ads,Mobile,Australia,Home Page,152,135,85,36.45,189,29,609,New Product Launch,Feb
+25/02/2024,Facebook Ads,Tablet,Kenya,Promo Page,233,195,123,33.75,268,18,720,Spring Sale,Feb
+25/02/2024,Instagram Ads,Tablet,USA,Product Page,493,436,249,28.42,157,9,252,SEO Campaign,Feb
+25/02/2024,Organic Search,Desktop,UK,Landing Page,152,139,70,46.16,265,8,288,Brand Awareness,Feb
+25/02/2024,Direct,Mobile,Canada,Home Page,257,197,132,52.69,245,17,578,New Product Launch,Feb
+25/02/2024,Email Marketing,Mobile,India,Home Page,489,464,240,42.77,130,12,468,Email Campaign,Feb
+25/02/2024,Referral,Tablet,UK,Landing Page,230,174,125,28.8,314,27,648,Email Campaign,Feb
+26/02/2024,Google Ads,Desktop,Kenya,Landing Page,397,345,224,30.19,137,25,725,SEO Campaign,Feb
+26/02/2024,Facebook Ads,Desktop,Canada,Checkout Page,398,341,173,44.65,154,25,1150,Spring Sale,Feb
+26/02/2024,Instagram Ads,Mobile,Kenya,Blog Page,288,269,168,42.53,202,30,1410,Winter Sale,Feb
+26/02/2024,Organic Search,Desktop,Australia,Product Page,417,378,221,45.02,196,29,1653,SEO Campaign,Feb
+26/02/2024,Direct,Desktop,USA,Blog Page,186,174,81,50.27,239,34,1020,SEO Campaign,Feb
+26/02/2024,Email Marketing,Mobile,India,Landing Page,293,249,116,41.26,157,30,1020,Brand Awareness,Feb
+26/02/2024,Referral,Mobile,UK,Landing Page,321,266,193,31.02,246,7,203,Email Campaign,Feb
+27/02/2024,Google Ads,Desktop,India,Home Page,382,338,163,35.81,285,14,644,Email Campaign,Feb
+27/02/2024,Facebook Ads,Tablet,Germany,Promo Page,140,114,79,49.31,144,16,816,Brand Awareness,Feb
+27/02/2024,Instagram Ads,Desktop,Canada,Blog Page,256,217,158,51.66,302,31,868,New Product Launch,Feb
+27/02/2024,Organic Search,Tablet,Kenya,Home Page,118,93,65,46.28,298,14,588,None,Feb
+27/02/2024,Direct,Mobile,USA,Blog Page,293,237,139,39.1,249,16,672,Spring Sale,Feb
+27/02/2024,Email Marketing,Desktop,Canada,Checkout Page,213,193,104,42.62,247,19,969,Spring Sale,Feb
+27/02/2024,Referral,Tablet,India,Checkout Page,217,190,118,31.2,117,13,429,None,Feb
+28/02/2024,Google Ads,Tablet,USA,Checkout Page,226,184,124,43.44,196,31,868,Winter Sale,Feb
+28/02/2024,Facebook Ads,Tablet,Germany,Checkout Page,98,86,49,48.35,246,20,1060,Winter Sale,Feb
+28/02/2024,Instagram Ads,Tablet,UK,Home Page,497,374,274,46.81,153,31,1488,None,Feb
+28/02/2024,Organic Search,Mobile,Kenya,Home Page,348,288,206,33.52,138,9,180,New Product Launch,Feb
+28/02/2024,Direct,Mobile,Kenya,Promo Page,104,92,52,51.91,249,28,980,Winter Sale,Feb
+28/02/2024,Email Marketing,Desktop,Germany,Landing Page,199,179,105,51.6,258,21,546,New Product Launch,Feb
+28/02/2024,Referral,Desktop,Kenya,Promo Page,350,295,139,38.47,235,21,441,None,Feb
+29/02/2024,Google Ads,Desktop,Germany,Blog Page,264,237,166,42.73,138,15,555,Brand Awareness,Feb
+29/02/2024,Facebook Ads,Desktop,Kenya,Landing Page,414,329,241,29.16,156,21,462,None,Feb
+29/02/2024,Instagram Ads,Tablet,Kenya,Landing Page,141,116,65,29.22,312,13,663,Spring Sale,Feb
+29/02/2024,Organic Search,Mobile,Australia,Home Page,141,129,72,45.06,315,31,1054,Spring Sale,Feb
+29/02/2024,Direct,Tablet,Germany,Landing Page,393,356,240,49.68,147,22,792,SEO Campaign,Feb
+29/02/2024,Email Marketing,Tablet,India,Landing Page,108,89,57,37.37,223,31,1116,Email Campaign,Feb
+29/02/2024,Referral,Desktop,Germany,Blog Page,143,129,91,42.62,151,12,372,New Product Launch,Feb
+01/03/2024,Google Ads,Desktop,Australia,Product Page,133,110,68,33.01,276,4,196,SEO Campaign,Mar
+01/03/2024,Facebook Ads,Tablet,UK,Checkout Page,474,373,176,46.8,229,21,945,Winter Sale,Mar
+01/03/2024,Instagram Ads,Desktop,Germany,Promo Page,463,398,242,45.19,284,32,640,Email Campaign,Mar
+01/03/2024,Organic Search,Tablet,Australia,Checkout Page,457,368,237,50.24,163,9,306,SEO Campaign,Mar
+01/03/2024,Direct,Desktop,Germany,Blog Page,436,392,194,33.87,254,33,1353,New Product Launch,Mar
+01/03/2024,Email Marketing,Tablet,Germany,Blog Page,158,136,62,46,223,27,1593,Brand Awareness,Mar
+01/03/2024,Referral,Tablet,Germany,Landing Page,481,442,231,43.57,127,18,828,Email Campaign,Mar
+02/03/2024,Google Ads,Tablet,Canada,Blog Page,444,374,232,36.21,102,19,1026,New Product Launch,Mar
+02/03/2024,Facebook Ads,Desktop,USA,Promo Page,493,400,258,34.26,255,33,1089,None,Mar
+02/03/2024,Instagram Ads,Tablet,USA,Promo Page,286,243,109,53.34,286,23,667,Email Campaign,Mar
+02/03/2024,Organic Search,Tablet,India,Landing Page,108,97,56,47.1,260,27,1053,Brand Awareness,Mar
+02/03/2024,Direct,Desktop,USA,Product Page,262,228,145,40.67,238,14,322,SEO Campaign,Mar
+02/03/2024,Email Marketing,Tablet,Canada,Blog Page,245,212,98,40.28,235,29,1073,SEO Campaign,Mar
+02/03/2024,Referral,Tablet,USA,Promo Page,212,161,103,54.3,271,12,492,Winter Sale,Mar
+03/03/2024,Google Ads,Desktop,Australia,Product Page,222,175,80,43.65,298,31,1023,Winter Sale,Mar
+03/03/2024,Facebook Ads,Tablet,Australia,Product Page,454,356,208,40.28,109,32,1824,Brand Awareness,Mar
+03/03/2024,Instagram Ads,Tablet,Australia,Landing Page,92,71,44,35.48,125,24,1080,Brand Awareness,Mar
+03/03/2024,Organic Search,Desktop,Kenya,Landing Page,227,171,98,30.28,217,22,770,None,Mar
+03/03/2024,Direct,Tablet,Canada,Promo Page,124,117,76,38.14,304,26,728,Email Campaign,Mar
+03/03/2024,Email Marketing,Desktop,Australia,Promo Page,313,278,175,44.71,296,33,1617,None,Mar
+03/03/2024,Referral,Desktop,Canada,Product Page,388,366,254,51.02,183,31,1178,Spring Sale,Mar
+04/03/2024,Google Ads,Tablet,Germany,Promo Page,150,118,61,40.67,191,26,754,New Product Launch,Mar
+04/03/2024,Facebook Ads,Tablet,Kenya,Blog Page,372,335,248,39.87,145,25,1475,Brand Awareness,Mar
+04/03/2024,Instagram Ads,Mobile,UK,Checkout Page,135,104,54,37.59,214,15,765,SEO Campaign,Mar
+04/03/2024,Organic Search,Desktop,India,Landing Page,302,273,129,54.64,209,25,1025,SEO Campaign,Mar
+04/03/2024,Direct,Tablet,Australia,Promo Page,381,346,169,43.68,257,34,1462,Brand Awareness,Mar
+04/03/2024,Email Marketing,Mobile,Kenya,Blog Page,422,323,189,36.27,146,25,1325,Winter Sale,Mar
+04/03/2024,Referral,Tablet,India,Blog Page,255,219,163,45.93,195,17,578,Winter Sale,Mar
+05/03/2024,Google Ads,Mobile,India,Promo Page,111,102,57,33.27,171,15,525,SEO Campaign,Mar
+05/03/2024,Facebook Ads,Tablet,USA,Checkout Page,117,107,59,51.21,107,18,1044,Email Campaign,Mar
+05/03/2024,Instagram Ads,Tablet,Kenya,Promo Page,444,417,209,43.33,277,28,924,SEO Campaign,Mar
+05/03/2024,Organic Search,Mobile,Kenya,Landing Page,118,110,73,35.54,280,8,376,SEO Campaign,Mar
+05/03/2024,Direct,Desktop,USA,Checkout Page,210,165,115,35.71,255,10,270,Brand Awareness,Mar
+05/03/2024,Email Marketing,Mobile,India,Blog Page,111,100,56,30.35,266,29,1450,Brand Awareness,Mar
+05/03/2024,Referral,Mobile,Germany,Product Page,387,342,176,33.89,173,9,369,Spring Sale,Mar
+06/03/2024,Google Ads,Mobile,UK,Product Page,355,292,151,35.16,218,17,544,New Product Launch,Mar
+06/03/2024,Facebook Ads,Tablet,Germany,Home Page,188,176,111,52.96,200,29,928,SEO Campaign,Mar
+06/03/2024,Instagram Ads,Mobile,UK,Blog Page,268,209,124,39.61,234,32,1856,Brand Awareness,Mar
+06/03/2024,Organic Search,Tablet,Australia,Home Page,173,146,95,48.6,201,25,900,SEO Campaign,Mar
+06/03/2024,Direct,Desktop,India,Home Page,281,254,123,44.91,247,3,84,SEO Campaign,Mar
+06/03/2024,Email Marketing,Mobile,USA,Landing Page,306,275,141,37.07,229,3,99,Brand Awareness,Mar
+06/03/2024,Referral,Mobile,USA,Product Page,347,286,197,38.59,228,9,450,Email Campaign,Mar
+07/03/2024,Google Ads,Mobile,Canada,Checkout Page,292,252,183,38.46,267,8,448,Winter Sale,Mar
+07/03/2024,Facebook Ads,Tablet,India,Promo Page,306,255,137,36.97,283,33,1947,New Product Launch,Mar
+07/03/2024,Instagram Ads,Tablet,Australia,Promo Page,352,309,156,35.98,127,25,1400,Brand Awareness,Mar
+07/03/2024,Organic Search,Mobile,Australia,Promo Page,297,276,152,40.3,147,34,1224,Brand Awareness,Mar
+07/03/2024,Direct,Mobile,India,Promo Page,162,131,72,30.13,117,3,111,Spring Sale,Mar
+07/03/2024,Email Marketing,Tablet,Kenya,Blog Page,467,368,183,34.48,273,14,700,Winter Sale,Mar
+07/03/2024,Referral,Desktop,Canada,Landing Page,369,290,130,29.62,162,28,1092,Email Campaign,Mar
+08/03/2024,Google Ads,Tablet,UK,Product Page,274,246,114,28.19,293,11,495,SEO Campaign,Mar
+08/03/2024,Facebook Ads,Desktop,Kenya,Landing Page,219,204,111,46.66,218,24,1056,Spring Sale,Mar
+08/03/2024,Instagram Ads,Desktop,Germany,Product Page,228,190,132,31.24,279,31,1612,Spring Sale,Mar
+08/03/2024,Organic Search,Desktop,USA,Landing Page,445,386,223,32.44,210,28,672,SEO Campaign,Mar
+08/03/2024,Direct,Tablet,Canada,Product Page,382,287,179,30.86,316,24,1416,Spring Sale,Mar
+08/03/2024,Email Marketing,Tablet,Germany,Checkout Page,424,397,188,34.86,281,7,392,Email Campaign,Mar
+08/03/2024,Referral,Tablet,Australia,Promo Page,276,210,131,47.95,277,21,1029,SEO Campaign,Mar
+09/03/2024,Google Ads,Desktop,Kenya,Home Page,169,153,103,43.15,214,24,1128,None,Mar
+09/03/2024,Facebook Ads,Mobile,India,Checkout Page,302,273,142,31.9,120,22,968,Email Campaign,Mar
+09/03/2024,Instagram Ads,Mobile,Kenya,Checkout Page,190,164,80,46.6,259,23,782,New Product Launch,Mar
+09/03/2024,Organic Search,Desktop,USA,Checkout Page,287,236,163,36.86,179,15,540,Email Campaign,Mar
+09/03/2024,Direct,Mobile,USA,Blog Page,341,294,148,31.77,232,24,1104,New Product Launch,Mar
+09/03/2024,Email Marketing,Tablet,Germany,Product Page,139,107,78,46.46,306,4,180,SEO Campaign,Mar
+09/03/2024,Referral,Desktop,Germany,Promo Page,469,366,236,54.22,106,27,891,None,Mar
+10/03/2024,Google Ads,Tablet,UK,Promo Page,478,417,305,45.87,170,5,190,Email Campaign,Mar
+10/03/2024,Facebook Ads,Desktop,UK,Checkout Page,460,379,199,30.86,121,6,192,Email Campaign,Mar
+10/03/2024,Instagram Ads,Desktop,Australia,Blog Page,447,354,189,43.02,297,30,1050,Spring Sale,Mar
+10/03/2024,Organic Search,Tablet,India,Home Page,363,309,204,30.58,225,26,884,None,Mar
+10/03/2024,Direct,Tablet,Kenya,Product Page,124,113,52,40.54,192,12,420,Brand Awareness,Mar
+10/03/2024,Email Marketing,Mobile,Kenya,Checkout Page,225,170,116,38.75,187,13,546,Spring Sale,Mar
+10/03/2024,Referral,Desktop,USA,Blog Page,187,154,111,34.78,235,17,1003,Spring Sale,Mar
+11/03/2024,Google Ads,Tablet,Australia,Home Page,291,230,164,43.1,195,13,468,Winter Sale,Mar
+11/03/2024,Facebook Ads,Tablet,Canada,Blog Page,468,431,300,39.9,282,22,902,New Product Launch,Mar
+11/03/2024,Instagram Ads,Tablet,UK,Landing Page,82,77,39,40.41,107,19,532,Email Campaign,Mar
+11/03/2024,Organic Search,Mobile,India,Home Page,254,211,126,52.76,114,30,1590,Spring Sale,Mar
+11/03/2024,Direct,Desktop,Canada,Promo Page,285,255,167,37.19,216,11,484,Spring Sale,Mar
+11/03/2024,Email Marketing,Desktop,UK,Promo Page,345,274,125,50.54,262,9,324,Winter Sale,Mar
+11/03/2024,Referral,Desktop,USA,Promo Page,377,352,180,39.34,107,5,225,New Product Launch,Mar
+12/03/2024,Google Ads,Tablet,India,Checkout Page,318,241,150,38.74,219,28,1288,None,Mar
+12/03/2024,Facebook Ads,Mobile,Germany,Product Page,459,383,267,49.75,298,26,1430,SEO Campaign,Mar
+12/03/2024,Instagram Ads,Desktop,India,Blog Page,363,275,175,35.76,240,18,594,SEO Campaign,Mar
+12/03/2024,Organic Search,Mobile,UK,Blog Page,203,183,122,41.08,264,16,608,Email Campaign,Mar
+12/03/2024,Direct,Desktop,UK,Blog Page,106,98,60,47.82,152,6,126,Brand Awareness,Mar
+12/03/2024,Email Marketing,Desktop,Australia,Promo Page,435,377,207,49.68,260,32,1536,None,Mar
+12/03/2024,Referral,Mobile,Australia,Home Page,499,386,186,45.5,205,17,578,SEO Campaign,Mar
+13/03/2024,Google Ads,Mobile,Australia,Product Page,129,106,52,47.92,254,24,552,Email Campaign,Mar
+13/03/2024,Facebook Ads,Mobile,Germany,Blog Page,377,316,190,31.17,311,33,1782,None,Mar
+13/03/2024,Instagram Ads,Mobile,Kenya,Blog Page,418,395,268,39.73,227,4,84,None,Mar
+13/03/2024,Organic Search,Tablet,USA,Home Page,186,149,72,30.69,160,28,868,New Product Launch,Mar
+13/03/2024,Direct,Tablet,UK,Landing Page,427,336,216,49.08,288,4,172,Spring Sale,Mar
+13/03/2024,Email Marketing,Mobile,UK,Promo Page,250,235,115,32.1,116,19,399,Brand Awareness,Mar
+13/03/2024,Referral,Mobile,Germany,Home Page,109,89,43,28.5,99,30,1770,Brand Awareness,Mar
+14/03/2024,Google Ads,Mobile,UK,Product Page,121,96,61,33.73,274,22,1012,Winter Sale,Mar
+14/03/2024,Facebook Ads,Tablet,Australia,Product Page,401,333,162,28.75,99,34,1802,Winter Sale,Mar
+14/03/2024,Instagram Ads,Mobile,India,Promo Page,203,181,108,45.1,146,16,336,Email Campaign,Mar
+14/03/2024,Organic Search,Desktop,Kenya,Product Page,235,184,84,37.79,199,16,896,Spring Sale,Mar
+14/03/2024,Direct,Mobile,Australia,Home Page,411,320,225,54.77,111,16,560,Winter Sale,Mar
+14/03/2024,Email Marketing,Tablet,Germany,Promo Page,243,212,132,34.85,198,29,1015,Email Campaign,Mar
+14/03/2024,Referral,Mobile,India,Checkout Page,183,141,82,29.15,229,18,648,Email Campaign,Mar
+15/03/2024,Google Ads,Mobile,Germany,Landing Page,278,215,149,52.95,143,17,901,SEO Campaign,Mar
+15/03/2024,Facebook Ads,Tablet,USA,Promo Page,422,378,258,31.19,186,23,1150,New Product Launch,Mar
+15/03/2024,Instagram Ads,Mobile,Germany,Checkout Page,189,142,86,50.98,301,5,120,None,Mar
+15/03/2024,Organic Search,Tablet,USA,Promo Page,488,403,261,54.7,308,27,729,SEO Campaign,Mar
+15/03/2024,Direct,Tablet,Australia,Checkout Page,422,323,225,54.37,292,31,1395,New Product Launch,Mar
+15/03/2024,Email Marketing,Desktop,Germany,Landing Page,272,221,131,36.59,283,31,1209,Winter Sale,Mar
+15/03/2024,Referral,Mobile,India,Promo Page,210,188,122,31.23,301,15,585,New Product Launch,Mar
+16/03/2024,Google Ads,Tablet,Germany,Blog Page,354,317,201,33.04,277,27,1107,Brand Awareness,Mar
+16/03/2024,Facebook Ads,Tablet,Germany,Promo Page,122,96,46,54.01,204,28,1176,Winter Sale,Mar
+16/03/2024,Instagram Ads,Tablet,UK,Product Page,99,87,60,54.34,296,33,1089,New Product Launch,Mar
+16/03/2024,Organic Search,Mobile,UK,Promo Page,90,68,40,46.61,263,22,1254,Winter Sale,Mar
+16/03/2024,Direct,Tablet,Germany,Promo Page,434,395,246,47.72,209,9,270,Winter Sale,Mar
+16/03/2024,Email Marketing,Mobile,Germany,Home Page,475,422,260,37.68,206,7,301,Email Campaign,Mar
+16/03/2024,Referral,Desktop,UK,Landing Page,197,159,117,44.96,313,19,494,SEO Campaign,Mar
+17/03/2024,Google Ads,Desktop,Germany,Landing Page,294,266,145,43.65,146,28,1232,Winter Sale,Mar
+17/03/2024,Facebook Ads,Mobile,Germany,Checkout Page,243,190,88,41.48,284,18,882,Winter Sale,Mar
+17/03/2024,Instagram Ads,Mobile,UK,Checkout Page,437,361,233,39.93,255,34,1428,Winter Sale,Mar
+17/03/2024,Organic Search,Tablet,Australia,Home Page,289,228,114,35.09,214,20,1140,Winter Sale,Mar
+17/03/2024,Direct,Mobile,India,Checkout Page,315,260,129,47.83,260,24,1080,Spring Sale,Mar
+17/03/2024,Email Marketing,Desktop,USA,Product Page,268,231,127,49.68,267,22,1012,SEO Campaign,Mar
+17/03/2024,Referral,Tablet,Kenya,Product Page,492,383,189,39.68,93,7,252,None,Mar
+18/03/2024,Google Ads,Desktop,UK,Blog Page,211,166,90,49.37,101,32,1760,None,Mar
+18/03/2024,Facebook Ads,Desktop,Canada,Blog Page,332,257,183,54.22,223,8,216,Spring Sale,Mar
+18/03/2024,Instagram Ads,Desktop,Kenya,Landing Page,174,165,74,52.17,291,7,217,None,Mar
+18/03/2024,Organic Search,Desktop,Australia,Blog Page,472,436,197,34.12,279,23,782,SEO Campaign,Mar
+18/03/2024,Direct,Tablet,India,Product Page,353,307,221,38.35,254,28,1456,New Product Launch,Mar
+18/03/2024,Email Marketing,Tablet,Kenya,Product Page,147,116,61,41.6,305,24,504,Winter Sale,Mar
+18/03/2024,Referral,Tablet,India,Home Page,264,198,103,51.39,256,30,1530,Winter Sale,Mar
+19/03/2024,Google Ads,Tablet,India,Product Page,229,174,109,48.62,313,29,841,None,Mar
+19/03/2024,Facebook Ads,Desktop,Australia,Checkout Page,492,370,182,48.04,118,17,918,Email Campaign,Mar
+19/03/2024,Instagram Ads,Tablet,Germany,Landing Page,428,362,204,50.66,173,17,391,Email Campaign,Mar
+19/03/2024,Organic Search,Mobile,USA,Checkout Page,215,185,114,51.71,149,16,512,Spring Sale,Mar
+19/03/2024,Direct,Mobile,USA,Product Page,357,306,196,29.23,297,16,432,SEO Campaign,Mar
+19/03/2024,Email Marketing,Tablet,Kenya,Blog Page,424,328,159,42,258,6,252,New Product Launch,Mar
+19/03/2024,Referral,Tablet,Canada,Home Page,104,80,45,42.98,235,29,1363,SEO Campaign,Mar
+20/03/2024,Google Ads,Desktop,India,Checkout Page,299,244,122,30.66,156,28,756,Email Campaign,Mar
+20/03/2024,Facebook Ads,Tablet,Germany,Product Page,348,272,126,44.67,171,4,116,None,Mar
+20/03/2024,Instagram Ads,Tablet,India,Blog Page,398,360,209,44.95,272,13,494,Spring Sale,Mar
+20/03/2024,Organic Search,Tablet,Kenya,Landing Page,317,298,199,41.23,282,21,861,Spring Sale,Mar
+20/03/2024,Direct,Desktop,Canada,Product Page,155,138,79,43.62,236,30,1680,None,Mar
+20/03/2024,Email Marketing,Tablet,Australia,Blog Page,247,212,121,42.03,143,24,840,Brand Awareness,Mar
+20/03/2024,Referral,Desktop,India,Landing Page,407,318,233,51.75,174,27,540,None,Mar
+21/03/2024,Google Ads,Mobile,USA,Landing Page,442,368,205,44.03,176,17,884,Email Campaign,Mar
+21/03/2024,Facebook Ads,Tablet,Kenya,Landing Page,167,150,68,37.58,139,18,702,Winter Sale,Mar
+21/03/2024,Instagram Ads,Mobile,India,Promo Page,324,279,192,47.85,201,15,480,Email Campaign,Mar
+21/03/2024,Organic Search,Tablet,USA,Blog Page,325,270,170,41.87,114,28,700,Brand Awareness,Mar
+21/03/2024,Direct,Tablet,UK,Home Page,469,353,220,53.42,206,5,260,SEO Campaign,Mar
+21/03/2024,Email Marketing,Mobile,UK,Blog Page,460,356,187,45.34,242,15,795,New Product Launch,Mar
+21/03/2024,Referral,Mobile,UK,Promo Page,486,406,274,52.65,218,12,456,None,Mar
+22/03/2024,Google Ads,Mobile,Canada,Product Page,481,390,240,43.88,211,8,408,Spring Sale,Mar
+22/03/2024,Facebook Ads,Tablet,Australia,Home Page,109,97,60,28.39,214,11,550,Email Campaign,Mar
+22/03/2024,Instagram Ads,Tablet,Germany,Promo Page,216,174,92,36.99,210,22,528,None,Mar
+22/03/2024,Organic Search,Mobile,Canada,Checkout Page,225,208,144,28.51,198,12,600,Winter Sale,Mar
+22/03/2024,Direct,Mobile,UK,Promo Page,196,147,105,28.66,253,26,832,Winter Sale,Mar
+22/03/2024,Email Marketing,Mobile,India,Blog Page,387,329,215,53.16,192,10,580,Brand Awareness,Mar
+22/03/2024,Referral,Mobile,UK,Home Page,258,239,118,32.1,109,14,504,Email Campaign,Mar
+23/03/2024,Google Ads,Tablet,Kenya,Promo Page,201,173,88,41.62,275,5,185,Email Campaign,Mar
+23/03/2024,Facebook Ads,Mobile,Australia,Home Page,293,243,128,33.36,233,34,1462,SEO Campaign,Mar
+23/03/2024,Instagram Ads,Mobile,USA,Checkout Page,114,104,52,53.82,96,32,1216,New Product Launch,Mar
+23/03/2024,Organic Search,Tablet,Canada,Product Page,151,115,72,41.11,106,33,1056,Spring Sale,Mar
+23/03/2024,Direct,Tablet,USA,Checkout Page,115,89,58,53.52,118,32,1408,New Product Launch,Mar
+23/03/2024,Email Marketing,Tablet,UK,Blog Page,105,83,44,29.72,164,8,264,Brand Awareness,Mar
+23/03/2024,Referral,Tablet,India,Home Page,263,209,153,51.52,201,34,1394,Email Campaign,Mar
+24/03/2024,Google Ads,Desktop,Germany,Landing Page,464,403,191,45.46,124,29,638,Winter Sale,Mar
+24/03/2024,Facebook Ads,Desktop,India,Promo Page,298,236,112,33.25,212,13,676,Email Campaign,Mar
+24/03/2024,Instagram Ads,Desktop,India,Blog Page,266,231,135,50.38,313,5,270,Email Campaign,Mar
+24/03/2024,Organic Search,Desktop,India,Checkout Page,494,384,207,31.76,171,20,660,New Product Launch,Mar
+24/03/2024,Direct,Mobile,UK,Blog Page,350,322,167,46.77,279,17,544,Brand Awareness,Mar
+24/03/2024,Email Marketing,Desktop,UK,Checkout Page,451,387,287,37.97,167,27,1296,None,Mar
+24/03/2024,Referral,Mobile,Germany,Checkout Page,494,382,219,29.7,180,24,504,Winter Sale,Mar
+25/03/2024,Google Ads,Desktop,UK,Home Page,135,115,67,39.09,111,5,280,New Product Launch,Mar
+25/03/2024,Facebook Ads,Desktop,USA,Home Page,352,283,131,53.13,256,4,196,Email Campaign,Mar
+25/03/2024,Instagram Ads,Mobile,Canada,Promo Page,148,138,76,29.48,290,7,147,Brand Awareness,Mar
+25/03/2024,Organic Search,Tablet,USA,Home Page,399,321,223,48.33,199,3,111,Winter Sale,Mar
+25/03/2024,Direct,Desktop,USA,Promo Page,295,239,124,29.97,148,34,1768,SEO Campaign,Mar
+25/03/2024,Email Marketing,Desktop,Kenya,Blog Page,149,114,59,48.26,305,26,832,Winter Sale,Mar
+25/03/2024,Referral,Desktop,UK,Product Page,308,273,189,51.69,235,25,1225,SEO Campaign,Mar
+26/03/2024,Google Ads,Desktop,USA,Promo Page,402,366,199,43.19,159,24,480,Spring Sale,Mar
+26/03/2024,Facebook Ads,Tablet,Kenya,Home Page,442,355,216,51.19,264,14,350,Brand Awareness,Mar
+26/03/2024,Instagram Ads,Desktop,Kenya,Blog Page,320,248,151,32.99,303,33,1782,Brand Awareness,Mar
+26/03/2024,Organic Search,Desktop,India,Product Page,291,265,177,42.5,282,33,1617,Winter Sale,Mar
+26/03/2024,Direct,Mobile,Australia,Product Page,373,303,151,49.15,111,5,190,New Product Launch,Mar
+26/03/2024,Email Marketing,Tablet,Germany,Blog Page,193,152,105,42.71,254,3,60,SEO Campaign,Mar
+26/03/2024,Referral,Tablet,USA,Home Page,458,421,191,41.82,154,6,174,New Product Launch,Mar
+27/03/2024,Google Ads,Desktop,Kenya,Landing Page,102,96,60,41.6,251,16,368,Spring Sale,Mar
+27/03/2024,Facebook Ads,Mobile,Kenya,Blog Page,89,70,40,50.41,239,34,1326,Spring Sale,Mar
+27/03/2024,Instagram Ads,Tablet,India,Promo Page,277,251,129,33.02,112,28,896,New Product Launch,Mar
+27/03/2024,Organic Search,Mobile,UK,Product Page,361,323,213,51.03,308,27,648,Winter Sale,Mar
+27/03/2024,Direct,Tablet,India,Blog Page,415,392,221,48.93,243,5,170,Spring Sale,Mar
+27/03/2024,Email Marketing,Tablet,India,Home Page,176,165,119,51.96,121,33,1221,Winter Sale,Mar
+27/03/2024,Referral,Desktop,Australia,Blog Page,140,113,72,37.61,160,28,1484,Brand Awareness,Mar
+28/03/2024,Google Ads,Mobile,India,Checkout Page,288,240,177,45.76,140,34,1054,New Product Launch,Mar
+28/03/2024,Facebook Ads,Desktop,India,Blog Page,363,287,169,49.63,219,33,1815,None,Mar
+28/03/2024,Instagram Ads,Mobile,Germany,Landing Page,168,148,67,46.63,314,13,377,Email Campaign,Mar
+28/03/2024,Organic Search,Mobile,USA,Product Page,245,193,118,33.59,186,19,817,Winter Sale,Mar
+28/03/2024,Direct,Desktop,Canada,Blog Page,397,362,200,31.01,139,18,882,Email Campaign,Mar
+28/03/2024,Email Marketing,Mobile,Germany,Product Page,481,445,274,42.43,107,12,468,Winter Sale,Mar
+28/03/2024,Referral,Mobile,India,Landing Page,152,141,68,28.1,237,26,728,None,Mar
+29/03/2024,Google Ads,Mobile,UK,Blog Page,326,293,212,39.44,243,16,752,New Product Launch,Mar
+29/03/2024,Facebook Ads,Tablet,USA,Product Page,377,324,174,39.63,273,33,726,New Product Launch,Mar
+29/03/2024,Instagram Ads,Mobile,Kenya,Checkout Page,279,253,185,44.83,135,6,210,Winter Sale,Mar
+29/03/2024,Organic Search,Desktop,Australia,Home Page,128,96,45,38.46,289,31,1798,Brand Awareness,Mar
+29/03/2024,Direct,Tablet,Canada,Promo Page,378,292,183,41.09,210,15,585,SEO Campaign,Mar
+29/03/2024,Email Marketing,Mobile,Germany,Checkout Page,332,275,174,49.75,138,14,630,Brand Awareness,Mar
+29/03/2024,Referral,Tablet,India,Blog Page,177,156,94,39.58,257,4,112,None,Mar
+30/03/2024,Google Ads,Tablet,Australia,Product Page,416,381,234,32.13,276,16,352,SEO Campaign,Mar
+30/03/2024,Facebook Ads,Desktop,UK,Promo Page,157,135,74,45.51,223,15,825,SEO Campaign,Mar
+30/03/2024,Instagram Ads,Desktop,Australia,Landing Page,202,176,96,33.18,313,18,684,Email Campaign,Mar
+30/03/2024,Organic Search,Desktop,Germany,Blog Page,186,142,79,46.37,232,34,748,Email Campaign,Mar
+30/03/2024,Direct,Mobile,Canada,Checkout Page,88,77,39,33.72,238,10,400,Spring Sale,Mar
+30/03/2024,Email Marketing,Mobile,UK,Product Page,460,385,283,47.42,229,8,424,Winter Sale,Mar
+30/03/2024,Referral,Desktop,UK,Blog Page,224,203,140,41.02,192,6,192,Brand Awareness,Mar
+31/03/2024,Google Ads,Desktop,Germany,Landing Page,200,188,125,52.91,170,12,636,New Product Launch,Mar
+31/03/2024,Facebook Ads,Desktop,Germany,Promo Page,462,369,211,35.55,213,23,1265,SEO Campaign,Mar
+31/03/2024,Instagram Ads,Desktop,Kenya,Promo Page,441,369,238,39.82,302,24,960,None,Mar
+31/03/2024,Organic Search,Desktop,India,Checkout Page,214,172,114,50.58,278,14,574,Spring Sale,Mar
+31/03/2024,Direct,Mobile,Kenya,Blog Page,469,403,270,41.1,99,26,702,Winter Sale,Mar
+31/03/2024,Email Marketing,Desktop,Canada,Product Page,461,387,229,49.14,309,27,1377,Brand Awareness,Mar
+31/03/2024,Referral,Desktop,India,Blog Page,259,213,158,40.59,112,4,236,None,Mar
+01/04/2024,Google Ads,Desktop,Australia,Landing Page,143,122,89,34.77,264,3,168,New Product Launch,Apr
+01/04/2024,Facebook Ads,Mobile,UK,Promo Page,449,367,237,37.46,161,31,1519,Winter Sale,Apr
+01/04/2024,Instagram Ads,Desktop,Canada,Product Page,218,201,124,41.95,102,10,440,Email Campaign,Apr
+01/04/2024,Organic Search,Desktop,Germany,Home Page,429,363,245,35.61,154,14,602,Spring Sale,Apr
+01/04/2024,Direct,Desktop,Canada,Product Page,136,116,57,29.72,172,31,682,Spring Sale,Apr
+01/04/2024,Email Marketing,Desktop,India,Blog Page,334,257,116,54.02,166,7,287,None,Apr
+01/04/2024,Referral,Tablet,Germany,Blog Page,361,332,183,28.95,277,11,561,Email Campaign,Apr
+02/04/2024,Google Ads,Tablet,India,Promo Page,409,365,193,36.54,232,12,312,Email Campaign,Apr
+02/04/2024,Facebook Ads,Mobile,Germany,Blog Page,277,234,121,44.65,254,25,1200,Winter Sale,Apr
+02/04/2024,Instagram Ads,Tablet,Germany,Product Page,298,273,139,53.71,311,31,713,Winter Sale,Apr
+02/04/2024,Organic Search,Mobile,Kenya,Promo Page,379,318,221,51.9,309,11,341,Brand Awareness,Apr
+02/04/2024,Direct,Tablet,UK,Checkout Page,363,332,162,53.26,166,9,297,SEO Campaign,Apr
+02/04/2024,Email Marketing,Desktop,India,Blog Page,260,212,139,48.66,140,12,408,Email Campaign,Apr
+02/04/2024,Referral,Mobile,India,Promo Page,162,129,65,53.77,184,20,700,Spring Sale,Apr
+03/04/2024,Google Ads,Mobile,Kenya,Promo Page,499,437,280,50.96,260,5,265,Email Campaign,Apr
+03/04/2024,Facebook Ads,Desktop,UK,Home Page,334,280,188,34.16,165,22,528,None,Apr
+03/04/2024,Instagram Ads,Desktop,USA,Checkout Page,431,353,201,29.55,252,16,928,Brand Awareness,Apr
+03/04/2024,Organic Search,Mobile,India,Checkout Page,486,405,267,39.09,288,25,525,None,Apr
+03/04/2024,Direct,Mobile,Australia,Product Page,318,261,194,39.36,187,25,1075,Winter Sale,Apr
+03/04/2024,Email Marketing,Tablet,Kenya,Home Page,446,398,232,53.35,311,14,686,Brand Awareness,Apr
+03/04/2024,Referral,Tablet,Australia,Product Page,193,178,105,29.86,144,23,529,None,Apr
+04/04/2024,Google Ads,Mobile,UK,Blog Page,325,279,130,54.24,254,23,782,Email Campaign,Apr
+04/04/2024,Facebook Ads,Mobile,Australia,Home Page,482,390,198,31.48,189,22,836,SEO Campaign,Apr
+04/04/2024,Instagram Ads,Tablet,Germany,Product Page,196,160,117,37.26,99,34,1088,Spring Sale,Apr
+04/04/2024,Organic Search,Mobile,India,Checkout Page,89,79,58,29.35,225,3,141,Email Campaign,Apr
+04/04/2024,Direct,Mobile,Kenya,Landing Page,109,82,37,48.91,274,32,1600,None,Apr
+04/04/2024,Email Marketing,Tablet,USA,Promo Page,226,204,92,48.57,186,32,1536,Spring Sale,Apr
+04/04/2024,Referral,Tablet,Kenya,Promo Page,187,154,110,52.14,275,29,1160,SEO Campaign,Apr
+05/04/2024,Google Ads,Tablet,USA,Home Page,261,242,127,40.75,264,8,384,Email Campaign,Apr
+05/04/2024,Facebook Ads,Mobile,India,Promo Page,466,425,241,40.08,242,33,1881,SEO Campaign,Apr
+05/04/2024,Instagram Ads,Mobile,India,Home Page,251,192,103,54.1,304,8,256,Winter Sale,Apr
+05/04/2024,Organic Search,Mobile,USA,Landing Page,401,375,245,43.39,131,12,468,None,Apr
+05/04/2024,Direct,Mobile,India,Promo Page,337,283,186,47.8,256,20,520,Email Campaign,Apr
+05/04/2024,Email Marketing,Tablet,Kenya,Blog Page,467,441,311,41.45,305,31,868,Spring Sale,Apr
+05/04/2024,Referral,Mobile,USA,Promo Page,136,120,58,51,292,5,210,Winter Sale,Apr
+06/04/2024,Google Ads,Mobile,Germany,Home Page,350,264,145,41.87,116,21,651,Email Campaign,Apr
+06/04/2024,Facebook Ads,Desktop,Kenya,Landing Page,208,165,81,33.01,192,30,1230,SEO Campaign,Apr
+06/04/2024,Instagram Ads,Desktop,UK,Promo Page,97,85,60,34.59,161,24,1200,Spring Sale,Apr
+06/04/2024,Organic Search,Desktop,Germany,Checkout Page,117,93,58,47.39,289,33,1782,SEO Campaign,Apr
+06/04/2024,Direct,Desktop,India,Promo Page,237,220,162,39.97,293,4,132,Email Campaign,Apr
+06/04/2024,Email Marketing,Desktop,Germany,Promo Page,245,188,130,31.75,224,27,1350,Spring Sale,Apr
+06/04/2024,Referral,Desktop,USA,Promo Page,377,306,227,39.1,163,17,833,None,Apr
+07/04/2024,Google Ads,Desktop,Kenya,Blog Page,397,297,209,38.28,208,4,100,Spring Sale,Apr
+07/04/2024,Facebook Ads,Tablet,Canada,Checkout Page,258,204,143,28.82,267,7,357,Brand Awareness,Apr
+07/04/2024,Instagram Ads,Desktop,Australia,Product Page,153,118,55,41.06,234,9,288,None,Apr
+07/04/2024,Organic Search,Mobile,Canada,Blog Page,167,133,68,39.1,291,11,506,Brand Awareness,Apr
+07/04/2024,Direct,Tablet,Australia,Home Page,83,76,43,40,190,10,540,Email Campaign,Apr
+07/04/2024,Email Marketing,Mobile,USA,Product Page,403,362,164,45.4,253,10,540,Winter Sale,Apr
+07/04/2024,Referral,Tablet,Australia,Product Page,156,129,70,46.72,307,24,528,SEO Campaign,Apr
+08/04/2024,Google Ads,Mobile,UK,Home Page,295,274,193,29.42,146,23,713,Winter Sale,Apr
+08/04/2024,Facebook Ads,Tablet,Kenya,Blog Page,119,99,61,28.06,209,7,315,Spring Sale,Apr
+08/04/2024,Instagram Ads,Desktop,USA,Promo Page,441,393,229,28.73,160,15,315,Winter Sale,Apr
+08/04/2024,Organic Search,Desktop,Germany,Landing Page,305,244,143,31.6,234,15,450,Brand Awareness,Apr
+08/04/2024,Direct,Mobile,USA,Promo Page,149,120,86,44.97,168,30,1440,Winter Sale,Apr
+08/04/2024,Email Marketing,Desktop,Canada,Product Page,357,325,170,50.24,207,23,1288,None,Apr
+08/04/2024,Referral,Tablet,UK,Promo Page,249,208,155,33.95,105,24,1368,Spring Sale,Apr
+09/04/2024,Google Ads,Mobile,Australia,Blog Page,429,378,200,52.59,181,23,1334,New Product Launch,Apr
+09/04/2024,Facebook Ads,Mobile,India,Promo Page,429,331,153,34.95,259,17,969,Spring Sale,Apr
+09/04/2024,Instagram Ads,Desktop,Germany,Product Page,132,121,80,31.04,226,34,1632,New Product Launch,Apr
+09/04/2024,Organic Search,Desktop,UK,Landing Page,118,112,59,35.54,205,13,676,New Product Launch,Apr
+09/04/2024,Direct,Tablet,USA,Landing Page,100,83,46,28.58,253,13,481,New Product Launch,Apr
+09/04/2024,Email Marketing,Desktop,Kenya,Promo Page,238,190,129,48.3,173,5,105,Email Campaign,Apr
+09/04/2024,Referral,Desktop,Germany,Home Page,148,136,80,49.18,248,12,372,None,Apr
+10/04/2024,Google Ads,Mobile,UK,Checkout Page,405,377,280,45.87,307,31,1240,None,Apr
+10/04/2024,Facebook Ads,Mobile,Canada,Promo Page,315,239,132,46.01,233,3,105,None,Apr
+10/04/2024,Instagram Ads,Desktop,UK,Product Page,430,406,302,41.34,155,24,1104,Brand Awareness,Apr
+10/04/2024,Organic Search,Mobile,Canada,Checkout Page,437,401,285,34.57,206,9,513,None,Apr
+10/04/2024,Direct,Mobile,India,Checkout Page,420,378,175,50.78,120,20,960,Spring Sale,Apr
+10/04/2024,Email Marketing,Tablet,India,Home Page,473,409,206,33.08,207,7,287,Email Campaign,Apr
+10/04/2024,Referral,Mobile,India,Landing Page,415,354,170,33.48,206,3,84,Email Campaign,Apr
+11/04/2024,Google Ads,Mobile,UK,Product Page,169,141,74,50.64,161,25,1200,SEO Campaign,Apr
+11/04/2024,Facebook Ads,Tablet,UK,Product Page,440,341,166,46.26,206,29,580,SEO Campaign,Apr
+11/04/2024,Instagram Ads,Desktop,UK,Product Page,232,178,123,43.63,159,23,483,None,Apr
+11/04/2024,Organic Search,Mobile,USA,Landing Page,81,61,41,50.97,201,22,440,Winter Sale,Apr
+11/04/2024,Direct,Desktop,Australia,Blog Page,196,148,92,32.5,135,25,750,Spring Sale,Apr
+11/04/2024,Email Marketing,Tablet,USA,Landing Page,412,326,160,48.49,117,6,210,Brand Awareness,Apr
+11/04/2024,Referral,Tablet,Germany,Landing Page,286,223,146,44.03,168,28,644,Email Campaign,Apr
+12/04/2024,Google Ads,Tablet,India,Landing Page,473,354,263,52.47,267,25,650,SEO Campaign,Apr
+12/04/2024,Facebook Ads,Desktop,Germany,Promo Page,86,79,40,53.58,91,11,286,SEO Campaign,Apr
+12/04/2024,Instagram Ads,Desktop,Canada,Home Page,412,333,168,36.2,143,6,264,Email Campaign,Apr
+12/04/2024,Organic Search,Mobile,UK,Product Page,207,172,100,47.81,190,23,1265,Winter Sale,Apr
+12/04/2024,Direct,Mobile,Kenya,Product Page,481,412,269,46.43,192,17,986,Email Campaign,Apr
+12/04/2024,Email Marketing,Desktop,Australia,Checkout Page,352,326,202,50.47,295,19,1064,Brand Awareness,Apr
+12/04/2024,Referral,Tablet,USA,Landing Page,138,122,63,31.56,268,22,462,New Product Launch,Apr
+13/04/2024,Google Ads,Tablet,Germany,Home Page,308,281,164,41.21,103,25,775,Spring Sale,Apr
+13/04/2024,Facebook Ads,Desktop,USA,Checkout Page,185,155,113,53.73,195,11,572,Winter Sale,Apr
+13/04/2024,Instagram Ads,Tablet,Germany,Promo Page,108,94,62,34.94,209,12,576,Spring Sale,Apr
+13/04/2024,Organic Search,Mobile,UK,Product Page,321,250,174,34.35,103,5,285,Spring Sale,Apr
+13/04/2024,Direct,Mobile,Australia,Promo Page,334,262,118,49.75,294,6,198,Email Campaign,Apr
+13/04/2024,Email Marketing,Desktop,USA,Checkout Page,87,74,50,31.67,248,15,420,New Product Launch,Apr
+13/04/2024,Referral,Desktop,Kenya,Landing Page,109,86,58,33.5,119,11,495,Brand Awareness,Apr
+14/04/2024,Google Ads,Desktop,Germany,Checkout Page,147,122,60,54.63,144,25,700,Winter Sale,Apr
+14/04/2024,Facebook Ads,Desktop,UK,Promo Page,251,194,121,53.08,299,15,360,Spring Sale,Apr
+14/04/2024,Instagram Ads,Desktop,India,Landing Page,335,317,176,48.33,119,9,225,Email Campaign,Apr
+14/04/2024,Organic Search,Mobile,Australia,Product Page,82,69,47,39.67,132,30,930,New Product Launch,Apr
+14/04/2024,Direct,Mobile,Canada,Checkout Page,438,408,202,44.92,269,16,656,Spring Sale,Apr
+14/04/2024,Email Marketing,Mobile,Canada,Blog Page,334,262,166,51.81,200,11,429,New Product Launch,Apr
+14/04/2024,Referral,Desktop,Canada,Product Page,286,215,141,53.53,313,28,1288,Spring Sale,Apr
+15/04/2024,Google Ads,Tablet,India,Product Page,492,410,272,39.95,300,3,105,SEO Campaign,Apr
+15/04/2024,Facebook Ads,Tablet,Germany,Promo Page,151,120,76,50.41,115,7,287,Winter Sale,Apr
+15/04/2024,Instagram Ads,Mobile,India,Home Page,186,156,93,33.51,119,28,980,Spring Sale,Apr
+15/04/2024,Organic Search,Desktop,UK,Landing Page,255,216,133,52.75,135,20,1140,Winter Sale,Apr
+15/04/2024,Direct,Desktop,Kenya,Checkout Page,151,131,62,33.88,275,8,264,Spring Sale,Apr
+15/04/2024,Email Marketing,Mobile,Germany,Home Page,219,191,117,31.49,288,10,440,Spring Sale,Apr
+15/04/2024,Referral,Tablet,Kenya,Landing Page,262,208,103,38.97,102,4,212,None,Apr
+16/04/2024,Google Ads,Tablet,USA,Promo Page,199,183,102,45.04,236,5,185,SEO Campaign,Apr
+16/04/2024,Facebook Ads,Tablet,Germany,Product Page,212,199,106,40.95,218,29,1363,SEO Campaign,Apr
+16/04/2024,Instagram Ads,Tablet,India,Product Page,412,350,160,38.99,113,5,205,Brand Awareness,Apr
+16/04/2024,Organic Search,Desktop,USA,Landing Page,108,86,45,39.1,131,11,385,Spring Sale,Apr
+16/04/2024,Direct,Desktop,Kenya,Home Page,231,173,113,50.29,115,31,682,Winter Sale,Apr
+16/04/2024,Email Marketing,Mobile,Canada,Product Page,402,352,253,44.84,238,27,540,New Product Launch,Apr
+16/04/2024,Referral,Desktop,Australia,Landing Page,277,236,108,30.18,106,33,1947,SEO Campaign,Apr
+17/04/2024,Google Ads,Mobile,Canada,Blog Page,310,281,143,49.74,247,7,196,New Product Launch,Apr
+17/04/2024,Facebook Ads,Tablet,Australia,Promo Page,426,332,202,43.55,183,16,896,None,Apr
+17/04/2024,Instagram Ads,Mobile,Germany,Product Page,90,70,31,43.31,316,4,232,Email Campaign,Apr
+17/04/2024,Organic Search,Desktop,USA,Product Page,259,222,130,41.47,127,22,968,Brand Awareness,Apr
+17/04/2024,Direct,Mobile,USA,Landing Page,248,193,124,32.65,102,21,651,New Product Launch,Apr
+17/04/2024,Email Marketing,Mobile,Australia,Blog Page,411,370,231,35.19,274,17,374,Brand Awareness,Apr
+17/04/2024,Referral,Mobile,UK,Home Page,240,186,114,42.75,205,14,448,Brand Awareness,Apr
+18/04/2024,Google Ads,Desktop,Germany,Promo Page,335,257,135,51.62,226,10,420,New Product Launch,Apr
+18/04/2024,Facebook Ads,Desktop,USA,Product Page,94,74,47,34.36,258,12,516,None,Apr
+18/04/2024,Instagram Ads,Tablet,Germany,Checkout Page,83,72,35,39.54,307,20,960,None,Apr
+18/04/2024,Organic Search,Mobile,Australia,Checkout Page,368,335,244,41.86,298,28,924,New Product Launch,Apr
+18/04/2024,Direct,Desktop,USA,Home Page,260,220,130,41.24,122,9,531,Email Campaign,Apr
+18/04/2024,Email Marketing,Desktop,UK,Blog Page,96,89,64,44.32,123,22,968,New Product Launch,Apr
+18/04/2024,Referral,Tablet,UK,Checkout Page,426,385,192,40.08,202,18,468,SEO Campaign,Apr
+19/04/2024,Google Ads,Tablet,Australia,Home Page,370,310,229,38.19,106,34,850,Spring Sale,Apr
+19/04/2024,Facebook Ads,Tablet,USA,Blog Page,216,192,87,39.31,287,9,468,Brand Awareness,Apr
+19/04/2024,Instagram Ads,Desktop,India,Product Page,380,341,158,51.02,231,28,728,None,Apr
+19/04/2024,Organic Search,Mobile,India,Checkout Page,394,366,178,32.82,253,34,1462,New Product Launch,Apr
+19/04/2024,Direct,Tablet,Australia,Checkout Page,104,84,38,31.44,126,28,784,Spring Sale,Apr
+19/04/2024,Email Marketing,Mobile,India,Promo Page,165,125,60,28.11,280,13,650,Brand Awareness,Apr
+19/04/2024,Referral,Desktop,Canada,Product Page,166,128,80,46.01,254,17,816,SEO Campaign,Apr
+20/04/2024,Google Ads,Tablet,Canada,Promo Page,209,182,116,46.88,255,25,1125,Spring Sale,Apr
+20/04/2024,Facebook Ads,Tablet,USA,Landing Page,202,181,87,48.43,139,16,464,New Product Launch,Apr
+20/04/2024,Instagram Ads,Tablet,USA,Blog Page,270,238,119,47.57,273,30,900,Spring Sale,Apr
+20/04/2024,Organic Search,Desktop,India,Blog Page,250,237,153,41.32,205,14,714,Email Campaign,Apr
+20/04/2024,Direct,Desktop,UK,Home Page,339,258,150,33.53,252,7,280,New Product Launch,Apr
+20/04/2024,Email Marketing,Mobile,UK,Product Page,320,243,170,41.82,303,16,352,None,Apr
+20/04/2024,Referral,Mobile,Kenya,Checkout Page,486,413,247,30.97,231,14,686,New Product Launch,Apr
+21/04/2024,Google Ads,Tablet,India,Landing Page,423,328,161,46.83,113,8,424,Brand Awareness,Apr
+21/04/2024,Facebook Ads,Tablet,India,Blog Page,325,252,182,30.53,196,30,1770,Spring Sale,Apr
+21/04/2024,Instagram Ads,Desktop,UK,Promo Page,474,417,198,53.59,117,29,1073,Spring Sale,Apr
+21/04/2024,Organic Search,Desktop,India,Product Page,197,152,86,37.47,94,3,159,Winter Sale,Apr
+21/04/2024,Direct,Tablet,Kenya,Blog Page,372,338,223,33.14,279,9,423,Spring Sale,Apr
+21/04/2024,Email Marketing,Tablet,Australia,Product Page,211,161,89,41.59,319,30,720,Spring Sale,Apr
+21/04/2024,Referral,Mobile,India,Checkout Page,483,377,209,39.33,304,9,378,Spring Sale,Apr
+22/04/2024,Google Ads,Desktop,Australia,Home Page,441,395,237,39.21,130,18,792,New Product Launch,Apr
+22/04/2024,Facebook Ads,Tablet,Australia,Blog Page,118,92,50,28.49,280,6,228,New Product Launch,Apr
+22/04/2024,Instagram Ads,Tablet,UK,Promo Page,285,226,109,50.99,92,7,259,Brand Awareness,Apr
+22/04/2024,Organic Search,Tablet,UK,Blog Page,341,262,141,45.23,311,4,112,Winter Sale,Apr
+22/04/2024,Direct,Tablet,Germany,Landing Page,281,243,156,34.9,277,3,75,New Product Launch,Apr
+22/04/2024,Email Marketing,Mobile,UK,Product Page,336,299,153,43.36,286,19,513,Winter Sale,Apr
+22/04/2024,Referral,Tablet,Australia,Checkout Page,455,409,302,47.38,143,22,968,None,Apr
+23/04/2024,Google Ads,Mobile,Kenya,Checkout Page,231,190,86,46.99,128,13,702,Brand Awareness,Apr
+23/04/2024,Facebook Ads,Tablet,Kenya,Promo Page,298,224,125,44.23,216,19,988,Brand Awareness,Apr
+23/04/2024,Instagram Ads,Mobile,UK,Checkout Page,300,241,175,47.54,238,28,1120,New Product Launch,Apr
+23/04/2024,Organic Search,Mobile,USA,Landing Page,200,164,77,39.51,225,12,336,New Product Launch,Apr
+23/04/2024,Direct,Tablet,Germany,Product Page,91,84,43,54.43,279,24,1320,Brand Awareness,Apr
+23/04/2024,Email Marketing,Mobile,Australia,Checkout Page,391,306,155,40.44,119,14,756,New Product Launch,Apr
+23/04/2024,Referral,Desktop,Germany,Landing Page,422,351,165,35.39,164,26,1352,None,Apr
+24/04/2024,Google Ads,Mobile,USA,Product Page,475,357,176,48.95,151,18,810,Email Campaign,Apr
+24/04/2024,Facebook Ads,Tablet,Germany,Product Page,412,364,170,40.57,234,4,128,SEO Campaign,Apr
+24/04/2024,Instagram Ads,Mobile,India,Checkout Page,490,429,257,29.62,259,14,784,New Product Launch,Apr
+24/04/2024,Organic Search,Mobile,Australia,Landing Page,232,175,117,50.35,211,13,312,Winter Sale,Apr
+24/04/2024,Direct,Mobile,India,Product Page,450,359,211,44.97,156,32,1856,Brand Awareness,Apr
+24/04/2024,Email Marketing,Desktop,Kenya,Landing Page,461,405,270,45.11,170,12,372,None,Apr
+24/04/2024,Referral,Mobile,Canada,Checkout Page,441,369,226,49.5,203,22,770,Brand Awareness,Apr
+25/04/2024,Google Ads,Tablet,USA,Product Page,260,210,141,33.62,277,14,504,SEO Campaign,Apr
+25/04/2024,Facebook Ads,Desktop,Kenya,Checkout Page,175,163,110,41.64,211,14,756,Winter Sale,Apr
+25/04/2024,Instagram Ads,Tablet,Canada,Product Page,397,355,200,49.18,215,28,1148,Winter Sale,Apr
+25/04/2024,Organic Search,Desktop,Kenya,Checkout Page,411,314,199,45.98,112,11,528,New Product Launch,Apr
+25/04/2024,Direct,Mobile,India,Landing Page,355,268,168,42.56,164,24,1416,Brand Awareness,Apr
+25/04/2024,Email Marketing,Desktop,USA,Blog Page,113,85,40,28.89,112,16,416,New Product Launch,Apr
+25/04/2024,Referral,Tablet,Australia,Product Page,291,238,126,46.52,106,29,841,Email Campaign,Apr
+26/04/2024,Google Ads,Desktop,Canada,Checkout Page,187,153,80,53.56,280,25,1275,Brand Awareness,Apr
+26/04/2024,Facebook Ads,Desktop,Australia,Blog Page,458,393,253,48.35,234,10,590,New Product Launch,Apr
+26/04/2024,Instagram Ads,Desktop,Australia,Landing Page,402,340,216,28.27,95,18,486,None,Apr
+26/04/2024,Organic Search,Mobile,Germany,Promo Page,256,206,96,47.06,144,3,165,None,Apr
+26/04/2024,Direct,Desktop,Canada,Home Page,104,81,49,54,160,3,78,SEO Campaign,Apr
+26/04/2024,Email Marketing,Tablet,USA,Promo Page,114,103,70,52.71,112,21,1176,Spring Sale,Apr
+26/04/2024,Referral,Mobile,Canada,Product Page,410,349,181,50.82,219,9,306,None,Apr
+27/04/2024,Google Ads,Mobile,Australia,Promo Page,275,217,149,33.05,166,7,252,New Product Launch,Apr
+27/04/2024,Facebook Ads,Mobile,UK,Home Page,181,148,104,34.28,292,26,650,None,Apr
+27/04/2024,Instagram Ads,Mobile,USA,Blog Page,405,344,161,47.29,157,28,700,Email Campaign,Apr
+27/04/2024,Organic Search,Desktop,UK,Promo Page,171,146,108,46.8,282,21,525,New Product Launch,Apr
+27/04/2024,Direct,Mobile,India,Checkout Page,412,348,187,34.99,295,33,1518,Email Campaign,Apr
+27/04/2024,Email Marketing,Mobile,Australia,Promo Page,499,469,244,36.74,242,4,164,Brand Awareness,Apr
+27/04/2024,Referral,Mobile,Kenya,Promo Page,228,196,110,39.35,272,9,351,Winter Sale,Apr
+28/04/2024,Google Ads,Tablet,USA,Landing Page,228,215,150,29.62,246,30,810,Winter Sale,Apr
+28/04/2024,Facebook Ads,Mobile,USA,Blog Page,145,130,61,46.07,135,19,874,Spring Sale,Apr
+28/04/2024,Instagram Ads,Tablet,India,Checkout Page,156,141,82,36.14,204,33,1617,SEO Campaign,Apr
+28/04/2024,Organic Search,Tablet,USA,Home Page,235,212,152,40.05,174,27,1134,Spring Sale,Apr
+28/04/2024,Direct,Tablet,UK,Home Page,281,225,156,52.29,293,13,546,Email Campaign,Apr
+28/04/2024,Email Marketing,Desktop,Canada,Checkout Page,372,281,135,47.67,177,27,918,Email Campaign,Apr
+28/04/2024,Referral,Tablet,Australia,Product Page,325,294,199,54.26,275,14,798,Spring Sale,Apr
+29/04/2024,Google Ads,Mobile,India,Blog Page,118,98,68,42.83,230,20,860,Winter Sale,Apr
+29/04/2024,Facebook Ads,Tablet,Canada,Blog Page,345,289,195,49.44,248,8,176,SEO Campaign,Apr
+29/04/2024,Instagram Ads,Desktop,Australia,Home Page,171,158,103,51.19,160,17,629,Spring Sale,Apr
+29/04/2024,Organic Search,Tablet,USA,Product Page,439,380,230,32.04,183,12,288,Winter Sale,Apr
+29/04/2024,Direct,Desktop,Australia,Product Page,465,384,264,36.26,157,33,1023,Winter Sale,Apr
+29/04/2024,Email Marketing,Tablet,Germany,Blog Page,365,294,189,51.58,292,26,1300,Brand Awareness,Apr
+29/04/2024,Referral,Tablet,Germany,Blog Page,105,79,41,51.65,164,21,1134,Winter Sale,Apr
+30/04/2024,Google Ads,Tablet,UK,Checkout Page,265,219,118,46.41,220,22,638,SEO Campaign,Apr
+30/04/2024,Facebook Ads,Mobile,Kenya,Promo Page,121,110,68,48,204,3,63,New Product Launch,Apr
+30/04/2024,Instagram Ads,Mobile,Australia,Home Page,472,392,276,49.56,173,23,874,Winter Sale,Apr
+30/04/2024,Organic Search,Mobile,USA,Landing Page,229,181,88,28.34,223,21,546,Email Campaign,Apr
+30/04/2024,Direct,Mobile,Germany,Home Page,290,260,119,43.53,303,32,864,Spring Sale,Apr
+30/04/2024,Email Marketing,Mobile,Australia,Blog Page,365,308,138,28.3,291,26,598,Winter Sale,Apr
+30/04/2024,Referral,Tablet,USA,Blog Page,481,446,259,31.86,147,21,588,Spring Sale,Apr
+01/05/2024,Google Ads,Mobile,UK,Checkout Page,400,370,214,48.19,316,27,648,Winter Sale,May
+01/05/2024,Facebook Ads,Tablet,USA,Promo Page,294,225,101,40.14,194,8,424,Email Campaign,May
+01/05/2024,Instagram Ads,Desktop,Kenya,Promo Page,384,333,209,29.74,315,11,528,SEO Campaign,May
+01/05/2024,Organic Search,Desktop,Australia,Landing Page,324,300,164,31.05,117,6,210,Brand Awareness,May
+01/05/2024,Direct,Mobile,USA,Promo Page,180,151,112,29.48,299,3,174,SEO Campaign,May
+01/05/2024,Email Marketing,Desktop,India,Blog Page,396,328,224,53.41,199,18,936,Spring Sale,May
+01/05/2024,Referral,Tablet,India,Blog Page,261,202,97,46.59,104,19,893,New Product Launch,May
+02/05/2024,Google Ads,Mobile,Canada,Home Page,224,191,89,30.98,131,34,1836,None,May
+02/05/2024,Facebook Ads,Mobile,Canada,Promo Page,89,81,50,32.85,287,32,1600,Winter Sale,May
+02/05/2024,Instagram Ads,Desktop,India,Promo Page,209,162,84,53.18,114,5,140,Spring Sale,May
+02/05/2024,Organic Search,Desktop,Australia,Home Page,369,348,257,33.81,219,32,672,Email Campaign,May
+02/05/2024,Direct,Desktop,Canada,Checkout Page,151,141,67,41.81,97,12,288,New Product Launch,May
+02/05/2024,Email Marketing,Desktop,UK,Checkout Page,218,170,125,52.7,146,20,580,Winter Sale,May
+02/05/2024,Referral,Desktop,India,Home Page,445,350,201,40.12,278,8,264,New Product Launch,May
+03/05/2024,Google Ads,Tablet,India,Product Page,258,194,106,44.95,247,27,1593,Brand Awareness,May
+03/05/2024,Facebook Ads,Mobile,UK,Product Page,424,399,188,42.37,112,17,544,Winter Sale,May
+03/05/2024,Instagram Ads,Tablet,USA,Product Page,235,188,108,47.79,249,24,1272,Brand Awareness,May
+03/05/2024,Organic Search,Tablet,Australia,Landing Page,175,148,97,28.8,282,11,319,Brand Awareness,May
+03/05/2024,Direct,Desktop,Canada,Blog Page,217,162,118,30.87,234,18,972,Winter Sale,May
+03/05/2024,Email Marketing,Desktop,UK,Product Page,364,340,192,41.28,143,33,1947,Brand Awareness,May
+03/05/2024,Referral,Tablet,Kenya,Home Page,360,286,145,29.02,312,5,110,SEO Campaign,May
+04/05/2024,Google Ads,Tablet,Australia,Landing Page,480,436,245,52.39,293,7,357,Email Campaign,May
+04/05/2024,Facebook Ads,Tablet,Kenya,Promo Page,254,209,141,46.15,261,10,570,New Product Launch,May
+04/05/2024,Instagram Ads,Mobile,Germany,Product Page,292,268,191,42.83,214,11,253,Brand Awareness,May
+04/05/2024,Organic Search,Mobile,UK,Promo Page,185,142,82,31.48,300,19,608,Email Campaign,May
+04/05/2024,Direct,Tablet,USA,Home Page,145,123,66,49.92,314,16,624,Brand Awareness,May
+04/05/2024,Email Marketing,Tablet,Germany,Promo Page,220,196,145,49.35,298,34,918,SEO Campaign,May
+04/05/2024,Referral,Desktop,Canada,Promo Page,95,83,47,35.91,279,13,676,None,May
+05/05/2024,Google Ads,Tablet,India,Promo Page,417,337,164,50.75,314,15,510,Spring Sale,May
+05/05/2024,Facebook Ads,Tablet,Kenya,Home Page,125,108,69,50.95,261,13,624,SEO Campaign,May
+05/05/2024,Instagram Ads,Desktop,USA,Blog Page,167,126,64,42.49,161,27,756,None,May
+05/05/2024,Organic Search,Mobile,Kenya,Landing Page,140,118,58,28.84,205,31,1054,Brand Awareness,May
+05/05/2024,Direct,Tablet,USA,Landing Page,389,363,226,46.01,156,12,696,Winter Sale,May
+05/05/2024,Email Marketing,Tablet,India,Blog Page,362,299,167,46.63,209,31,1054,None,May
+05/05/2024,Referral,Desktop,India,Landing Page,155,137,71,28.42,130,9,405,Email Campaign,May
+06/05/2024,Google Ads,Mobile,UK,Landing Page,479,382,180,37.62,141,19,1083,Winter Sale,May
+06/05/2024,Facebook Ads,Tablet,USA,Product Page,220,191,114,29.08,199,6,312,SEO Campaign,May
+06/05/2024,Instagram Ads,Mobile,India,Promo Page,227,199,116,51.31,279,20,980,Winter Sale,May
+06/05/2024,Organic Search,Tablet,Australia,Home Page,347,301,181,28.49,139,32,1408,Brand Awareness,May
+06/05/2024,Direct,Tablet,USA,Checkout Page,336,261,152,50.39,194,5,190,Brand Awareness,May
+06/05/2024,Email Marketing,Tablet,UK,Promo Page,223,203,106,52.29,275,27,945,Brand Awareness,May
+06/05/2024,Referral,Desktop,Canada,Home Page,300,232,146,28.93,251,4,184,SEO Campaign,May
+07/05/2024,Google Ads,Mobile,USA,Product Page,102,89,42,41.6,154,6,306,Winter Sale,May
+07/05/2024,Facebook Ads,Mobile,Canada,Landing Page,182,148,100,39.68,283,30,1140,Brand Awareness,May
+07/05/2024,Instagram Ads,Mobile,India,Promo Page,94,71,53,41.01,217,30,600,Spring Sale,May
+07/05/2024,Organic Search,Mobile,Kenya,Promo Page,398,323,226,45.66,159,10,310,None,May
+07/05/2024,Direct,Mobile,India,Promo Page,409,322,175,41.12,194,12,348,Brand Awareness,May
+07/05/2024,Email Marketing,Tablet,USA,Product Page,116,108,61,33.16,141,7,217,Email Campaign,May
+07/05/2024,Referral,Desktop,USA,Checkout Page,171,132,90,41.28,303,26,1170,Winter Sale,May
+08/05/2024,Google Ads,Desktop,India,Checkout Page,136,110,80,35.63,179,10,250,Spring Sale,May
+08/05/2024,Facebook Ads,Tablet,USA,Blog Page,314,289,184,46.06,102,28,616,None,May
+08/05/2024,Instagram Ads,Mobile,Australia,Landing Page,259,196,124,44.9,185,8,320,Winter Sale,May
+08/05/2024,Organic Search,Desktop,Australia,Home Page,491,462,331,35.3,167,21,714,Email Campaign,May
+08/05/2024,Direct,Tablet,Germany,Landing Page,433,330,234,41.49,268,11,561,Brand Awareness,May
+08/05/2024,Email Marketing,Mobile,Canada,Product Page,157,125,65,41.04,165,21,798,New Product Launch,May
+08/05/2024,Referral,Mobile,Australia,Promo Page,359,303,226,48.8,189,12,576,Email Campaign,May
+09/05/2024,Google Ads,Mobile,USA,Home Page,140,113,67,40.91,156,17,357,Brand Awareness,May
+09/05/2024,Facebook Ads,Tablet,India,Promo Page,361,336,162,48.45,90,31,1798,Winter Sale,May
+09/05/2024,Instagram Ads,Tablet,UK,Checkout Page,244,220,160,53.58,145,17,765,Brand Awareness,May
+09/05/2024,Organic Search,Desktop,India,Product Page,256,239,120,34.82,288,21,1050,Winter Sale,May
+09/05/2024,Direct,Mobile,USA,Home Page,102,81,48,31.98,189,29,870,SEO Campaign,May
+09/05/2024,Email Marketing,Desktop,Australia,Blog Page,406,378,277,34.61,228,30,1350,Winter Sale,May
+09/05/2024,Referral,Tablet,Australia,Product Page,313,241,176,39.43,297,3,144,Winter Sale,May
+10/05/2024,Google Ads,Tablet,UK,Checkout Page,266,217,128,44.56,272,16,704,None,May
+10/05/2024,Facebook Ads,Desktop,USA,Promo Page,435,372,199,29.27,180,9,306,Email Campaign,May
+10/05/2024,Instagram Ads,Tablet,UK,Blog Page,328,305,161,52.41,163,29,1044,Email Campaign,May
+10/05/2024,Organic Search,Desktop,Germany,Landing Page,344,275,139,46.09,294,24,1200,Spring Sale,May
+10/05/2024,Direct,Desktop,UK,Product Page,207,169,92,54.03,315,34,884,Winter Sale,May
+10/05/2024,Email Marketing,Desktop,Germany,Landing Page,493,412,279,54.8,122,8,352,SEO Campaign,May
+10/05/2024,Referral,Mobile,Kenya,Home Page,496,424,295,51.13,137,10,200,Winter Sale,May
+11/05/2024,Google Ads,Desktop,UK,Home Page,360,316,197,52.19,236,30,1440,Winter Sale,May
+11/05/2024,Facebook Ads,Tablet,USA,Product Page,445,358,256,29.1,237,20,440,SEO Campaign,May
+11/05/2024,Instagram Ads,Desktop,Germany,Checkout Page,257,200,116,48.81,228,25,975,Brand Awareness,May
+11/05/2024,Organic Search,Mobile,India,Checkout Page,305,255,187,34.64,234,32,1408,New Product Launch,May
+11/05/2024,Direct,Mobile,Canada,Blog Page,106,95,61,34.38,101,16,800,New Product Launch,May
+11/05/2024,Email Marketing,Tablet,Canada,Promo Page,260,199,148,49.16,93,29,1276,SEO Campaign,May
+11/05/2024,Referral,Desktop,Germany,Landing Page,389,318,183,31.46,316,11,627,New Product Launch,May
+12/05/2024,Google Ads,Mobile,Australia,Landing Page,362,295,136,41.4,169,23,1035,Spring Sale,May
+12/05/2024,Facebook Ads,Tablet,Germany,Product Page,160,150,76,51.63,245,3,165,Winter Sale,May
+12/05/2024,Instagram Ads,Tablet,UK,Product Page,247,203,121,43.64,278,18,630,SEO Campaign,May
+12/05/2024,Organic Search,Mobile,Canada,Home Page,151,116,73,31.27,305,5,245,New Product Launch,May
+12/05/2024,Direct,Tablet,USA,Checkout Page,133,104,77,43.15,267,20,600,New Product Launch,May
+12/05/2024,Email Marketing,Mobile,Canada,Landing Page,496,406,270,30.16,265,32,1056,Winter Sale,May
+12/05/2024,Referral,Tablet,Kenya,Checkout Page,202,152,99,36.14,170,33,1023,Brand Awareness,May
+13/05/2024,Google Ads,Tablet,UK,Promo Page,314,249,162,54.21,272,27,972,None,May
+13/05/2024,Facebook Ads,Mobile,USA,Promo Page,124,99,69,41.1,171,13,286,Spring Sale,May
+13/05/2024,Instagram Ads,Tablet,USA,Promo Page,399,314,206,38.54,270,22,506,New Product Launch,May
+13/05/2024,Organic Search,Tablet,Australia,Home Page,153,135,87,35.73,124,34,1700,New Product Launch,May
+13/05/2024,Direct,Mobile,Kenya,Product Page,146,115,59,35.55,278,31,1395,New Product Launch,May
+13/05/2024,Email Marketing,Mobile,Canada,Blog Page,496,405,268,43.05,240,6,240,Spring Sale,May
+13/05/2024,Referral,Mobile,Australia,Blog Page,120,101,65,41.43,118,17,374,Brand Awareness,May
+14/05/2024,Google Ads,Mobile,Germany,Checkout Page,226,214,150,44.5,212,16,560,Winter Sale,May
+14/05/2024,Facebook Ads,Tablet,India,Home Page,475,418,265,37.02,118,7,175,Brand Awareness,May
+14/05/2024,Instagram Ads,Tablet,UK,Promo Page,432,366,237,28.34,312,15,330,Spring Sale,May
+14/05/2024,Organic Search,Tablet,Germany,Promo Page,491,376,250,34.74,315,3,72,None,May
+14/05/2024,Direct,Mobile,India,Home Page,487,448,294,32.6,277,20,1020,Email Campaign,May
+14/05/2024,Email Marketing,Mobile,Germany,Checkout Page,192,152,98,42.66,251,7,364,Spring Sale,May
+14/05/2024,Referral,Mobile,Germany,Product Page,201,188,108,36.83,307,3,156,None,May
+15/05/2024,Google Ads,Mobile,UK,Landing Page,161,147,78,34.46,162,5,225,Spring Sale,May
+15/05/2024,Facebook Ads,Tablet,India,Blog Page,413,374,249,35.4,290,15,315,New Product Launch,May
+15/05/2024,Instagram Ads,Desktop,Germany,Home Page,168,133,79,50.69,174,9,351,Winter Sale,May
+15/05/2024,Organic Search,Mobile,Kenya,Promo Page,337,304,174,48.21,310,8,288,Brand Awareness,May
+15/05/2024,Direct,Mobile,India,Blog Page,163,145,106,39.04,317,34,918,Email Campaign,May
+15/05/2024,Email Marketing,Desktop,Canada,Blog Page,200,157,94,42.27,307,34,1462,None,May
+15/05/2024,Referral,Desktop,UK,Landing Page,368,297,168,37.23,161,34,1938,SEO Campaign,May
+16/05/2024,Google Ads,Mobile,Canada,Landing Page,263,205,138,28.23,279,6,276,SEO Campaign,May
+16/05/2024,Facebook Ads,Mobile,Germany,Product Page,176,155,88,28.03,290,29,1044,Email Campaign,May
+16/05/2024,Instagram Ads,Desktop,USA,Product Page,202,176,102,53.49,94,29,1015,Winter Sale,May
+16/05/2024,Organic Search,Tablet,UK,Product Page,418,381,214,34.25,158,25,1475,Email Campaign,May
+16/05/2024,Direct,Tablet,Kenya,Home Page,174,161,87,46.1,105,33,1155,None,May
+16/05/2024,Email Marketing,Mobile,Australia,Home Page,413,335,168,52.35,127,24,840,Email Campaign,May
+16/05/2024,Referral,Tablet,USA,Home Page,143,134,67,46.26,101,11,242,Brand Awareness,May
+17/05/2024,Google Ads,Mobile,USA,Product Page,129,106,52,38.96,118,9,414,Brand Awareness,May
+17/05/2024,Facebook Ads,Desktop,UK,Home Page,146,133,95,52.9,278,25,1150,Email Campaign,May
+17/05/2024,Instagram Ads,Tablet,Kenya,Promo Page,351,266,148,33.75,175,34,1224,Winter Sale,May
+17/05/2024,Organic Search,Tablet,USA,Home Page,280,248,169,28.54,212,24,768,SEO Campaign,May
+17/05/2024,Direct,Tablet,Germany,Blog Page,339,261,173,32.22,96,25,1075,Winter Sale,May
+17/05/2024,Email Marketing,Mobile,India,Blog Page,109,89,47,45.36,155,12,420,Email Campaign,May
+17/05/2024,Referral,Desktop,India,Home Page,367,316,225,42.25,209,6,270,Email Campaign,May
+18/05/2024,Google Ads,Tablet,Canada,Blog Page,340,260,121,53.31,288,6,324,Brand Awareness,May
+18/05/2024,Facebook Ads,Desktop,Australia,Home Page,438,352,176,44.76,129,3,144,None,May
+18/05/2024,Instagram Ads,Mobile,Australia,Blog Page,226,209,130,31.42,204,15,675,Winter Sale,May
+18/05/2024,Organic Search,Tablet,Kenya,Promo Page,84,75,48,37.59,285,9,342,Brand Awareness,May
+18/05/2024,Direct,Tablet,Germany,Landing Page,290,218,104,36.82,149,16,464,Brand Awareness,May
+18/05/2024,Email Marketing,Desktop,Germany,Product Page,297,231,148,29.48,213,21,420,Brand Awareness,May
+18/05/2024,Referral,Tablet,USA,Product Page,127,105,69,40.49,277,10,410,Spring Sale,May
+19/05/2024,Google Ads,Desktop,Australia,Blog Page,415,383,237,41.94,236,30,810,Spring Sale,May
+19/05/2024,Facebook Ads,Desktop,USA,Promo Page,302,244,143,44.18,114,22,462,Winter Sale,May
+19/05/2024,Instagram Ads,Mobile,Germany,Product Page,155,137,66,39.48,250,12,492,Brand Awareness,May
+19/05/2024,Organic Search,Mobile,UK,Checkout Page,417,329,208,30.37,208,13,338,None,May
+19/05/2024,Direct,Desktop,Canada,Product Page,348,311,186,47.14,154,31,744,New Product Launch,May
+19/05/2024,Email Marketing,Mobile,Australia,Promo Page,180,163,117,41.99,155,8,216,None,May
+19/05/2024,Referral,Mobile,Canada,Landing Page,119,96,54,51.02,230,31,1240,Email Campaign,May
+20/05/2024,Google Ads,Desktop,India,Home Page,112,93,60,47.63,316,30,750,SEO Campaign,May
+20/05/2024,Facebook Ads,Mobile,Germany,Promo Page,333,267,184,40.25,166,17,527,SEO Campaign,May
+20/05/2024,Instagram Ads,Mobile,USA,Blog Page,365,310,218,34.46,204,30,1110,New Product Launch,May
+20/05/2024,Organic Search,Mobile,UK,Product Page,459,401,259,29.9,280,34,1258,Brand Awareness,May
+20/05/2024,Direct,Mobile,Australia,Product Page,324,298,217,32.97,133,27,621,None,May
+20/05/2024,Email Marketing,Desktop,USA,Checkout Page,467,353,214,45.87,220,7,287,Brand Awareness,May
+20/05/2024,Referral,Tablet,Kenya,Product Page,184,158,91,29.82,219,26,832,None,May
+21/05/2024,Google Ads,Tablet,Canada,Blog Page,380,286,154,46.85,104,30,1770,Spring Sale,May
+21/05/2024,Facebook Ads,Desktop,Germany,Promo Page,313,260,135,31.68,196,25,1250,Winter Sale,May
+21/05/2024,Instagram Ads,Tablet,UK,Landing Page,213,175,88,39.61,157,33,924,None,May
+21/05/2024,Organic Search,Mobile,Australia,Checkout Page,120,97,61,51.52,310,20,820,Brand Awareness,May
+21/05/2024,Direct,Tablet,Canada,Product Page,105,88,54,51.97,120,15,810,None,May
+21/05/2024,Email Marketing,Tablet,Germany,Checkout Page,180,149,73,41.6,252,22,1188,Winter Sale,May
+21/05/2024,Referral,Mobile,India,Promo Page,478,398,227,36.76,172,25,1050,Winter Sale,May
+22/05/2024,Google Ads,Tablet,Kenya,Landing Page,322,261,140,49.9,181,17,595,New Product Launch,May
+22/05/2024,Facebook Ads,Mobile,Canada,Blog Page,94,71,32,34.61,246,28,1176,SEO Campaign,May
+22/05/2024,Instagram Ads,Tablet,USA,Product Page,437,384,254,32.82,237,25,900,New Product Launch,May
+22/05/2024,Organic Search,Desktop,USA,Landing Page,324,293,146,50.19,286,25,850,None,May
+22/05/2024,Direct,Desktop,USA,Home Page,284,246,137,40.83,240,18,522,Winter Sale,May
+22/05/2024,Email Marketing,Mobile,UK,Promo Page,480,396,194,44.87,291,25,950,New Product Launch,May
+22/05/2024,Referral,Desktop,India,Promo Page,470,359,236,49.19,191,33,1155,None,May
+23/05/2024,Google Ads,Mobile,India,Blog Page,250,189,134,36.5,256,6,288,Brand Awareness,May
+23/05/2024,Facebook Ads,Tablet,Canada,Product Page,237,206,150,34.32,311,21,1029,New Product Launch,May
+23/05/2024,Instagram Ads,Desktop,India,Blog Page,342,267,193,48.45,195,15,510,Email Campaign,May
+23/05/2024,Organic Search,Tablet,Germany,Checkout Page,170,142,77,41.04,102,33,1584,Email Campaign,May
+23/05/2024,Direct,Desktop,Canada,Landing Page,174,153,79,35.4,91,20,420,SEO Campaign,May
+23/05/2024,Email Marketing,Mobile,UK,Home Page,422,393,189,47.45,195,13,624,None,May
+23/05/2024,Referral,Mobile,Germany,Promo Page,383,350,167,46.2,219,27,891,New Product Launch,May
+24/05/2024,Google Ads,Mobile,UK,Product Page,315,278,189,40.78,120,24,696,None,May
+24/05/2024,Facebook Ads,Mobile,Australia,Blog Page,210,171,107,40.27,204,16,848,Email Campaign,May
+24/05/2024,Instagram Ads,Desktop,Canada,Product Page,150,136,75,45.34,310,27,1080,None,May
+24/05/2024,Organic Search,Tablet,Australia,Home Page,89,76,35,40.34,203,28,952,Brand Awareness,May
+24/05/2024,Direct,Mobile,USA,Promo Page,308,274,125,51.5,212,24,912,None,May
+24/05/2024,Email Marketing,Tablet,India,Promo Page,412,372,207,32.95,222,27,1107,SEO Campaign,May
+24/05/2024,Referral,Mobile,USA,Promo Page,83,77,38,54.07,194,4,104,Spring Sale,May
+25/05/2024,Google Ads,Mobile,Kenya,Product Page,422,353,202,47.78,214,33,1386,Spring Sale,May
+25/05/2024,Facebook Ads,Mobile,UK,Promo Page,459,397,222,41.12,304,29,1044,Winter Sale,May
+25/05/2024,Instagram Ads,Desktop,Kenya,Blog Page,371,327,240,47.7,163,18,414,SEO Campaign,May
+25/05/2024,Organic Search,Mobile,Australia,Checkout Page,333,287,140,36.65,92,22,638,None,May
+25/05/2024,Direct,Tablet,UK,Landing Page,400,319,220,48.6,178,10,230,Winter Sale,May
+25/05/2024,Email Marketing,Desktop,Kenya,Promo Page,307,275,187,41.49,105,24,864,New Product Launch,May
+25/05/2024,Referral,Tablet,Germany,Blog Page,145,129,67,32.64,242,18,666,New Product Launch,May
+26/05/2024,Google Ads,Mobile,Germany,Promo Page,118,103,55,28.01,262,29,1305,New Product Launch,May
+26/05/2024,Facebook Ads,Mobile,Canada,Promo Page,433,392,247,54.21,286,22,902,Email Campaign,May
+26/05/2024,Instagram Ads,Desktop,Kenya,Home Page,344,305,174,51.64,214,12,348,Email Campaign,May
+26/05/2024,Organic Search,Tablet,Canada,Promo Page,457,353,191,49.09,200,27,621,New Product Launch,May
+26/05/2024,Direct,Desktop,USA,Home Page,409,377,183,46.3,148,23,874,Winter Sale,May
+26/05/2024,Email Marketing,Mobile,Canada,Home Page,160,132,73,29.41,236,32,1728,SEO Campaign,May
+26/05/2024,Referral,Mobile,USA,Landing Page,107,97,57,36.06,213,27,675,New Product Launch,May
+27/05/2024,Google Ads,Mobile,India,Home Page,420,319,226,35.96,172,31,899,Email Campaign,May
+27/05/2024,Facebook Ads,Desktop,UK,Home Page,201,164,74,31.65,139,7,259,Brand Awareness,May
+27/05/2024,Instagram Ads,Tablet,Canada,Home Page,279,247,132,43.58,100,34,850,Spring Sale,May
+27/05/2024,Organic Search,Desktop,India,Product Page,244,201,130,34.89,281,3,132,SEO Campaign,May
+27/05/2024,Direct,Desktop,Canada,Product Page,342,308,140,43.06,234,18,702,None,May
+27/05/2024,Email Marketing,Tablet,USA,Product Page,347,310,225,49.72,123,9,486,New Product Launch,May
+27/05/2024,Referral,Mobile,India,Home Page,104,85,41,43.91,223,22,748,Email Campaign,May
+28/05/2024,Google Ads,Desktop,UK,Landing Page,172,132,76,34.84,158,32,736,Winter Sale,May
+28/05/2024,Facebook Ads,Mobile,Germany,Blog Page,193,170,113,40.24,232,7,154,New Product Launch,May
+28/05/2024,Instagram Ads,Mobile,UK,Home Page,370,336,244,54.42,107,28,1540,None,May
+28/05/2024,Organic Search,Tablet,Australia,Landing Page,392,319,163,41.44,148,28,868,None,May
+28/05/2024,Direct,Tablet,India,Blog Page,153,134,74,44.51,160,22,726,Spring Sale,May
+28/05/2024,Email Marketing,Mobile,USA,Product Page,172,146,98,41.76,184,19,532,Email Campaign,May
+28/05/2024,Referral,Mobile,UK,Product Page,344,259,172,49.88,228,31,961,Email Campaign,May
+29/05/2024,Google Ads,Mobile,Germany,Promo Page,475,404,299,46.72,181,26,624,SEO Campaign,May
+29/05/2024,Facebook Ads,Desktop,Kenya,Blog Page,434,408,269,33.61,134,9,252,SEO Campaign,May
+29/05/2024,Instagram Ads,Tablet,UK,Landing Page,336,265,133,37.12,248,21,462,Spring Sale,May
+29/05/2024,Organic Search,Tablet,UK,Promo Page,233,176,111,38.69,176,5,220,None,May
+29/05/2024,Direct,Desktop,Germany,Landing Page,426,328,165,37.21,98,16,896,Email Campaign,May
+29/05/2024,Email Marketing,Mobile,Kenya,Blog Page,415,369,227,52.4,151,32,800,Email Campaign,May
+29/05/2024,Referral,Mobile,UK,Landing Page,249,225,132,53.41,292,19,760,SEO Campaign,May
+30/05/2024,Google Ads,Tablet,UK,Promo Page,252,198,116,54.14,120,18,450,Email Campaign,May
+30/05/2024,Facebook Ads,Tablet,Canada,Home Page,477,449,314,41.22,170,14,350,Email Campaign,May
+30/05/2024,Instagram Ads,Desktop,Germany,Blog Page,236,179,89,49.94,306,18,630,SEO Campaign,May
+30/05/2024,Organic Search,Mobile,Australia,Checkout Page,427,358,245,44.7,303,21,420,Winter Sale,May
+30/05/2024,Direct,Tablet,India,Landing Page,286,245,144,35.93,228,29,1247,Spring Sale,May
+30/05/2024,Email Marketing,Desktop,Australia,Promo Page,156,122,79,51.02,311,33,1551,Email Campaign,May
+30/05/2024,Referral,Tablet,USA,Landing Page,360,303,223,48.7,113,21,798,SEO Campaign,May
+31/05/2024,Google Ads,Desktop,India,Blog Page,437,359,191,49.79,158,23,1035,SEO Campaign,May
+31/05/2024,Facebook Ads,Tablet,Australia,Landing Page,213,159,83,41.76,127,29,580,None,May
+31/05/2024,Instagram Ads,Mobile,Australia,Checkout Page,298,231,107,48.94,196,18,396,SEO Campaign,May
+31/05/2024,Organic Search,Mobile,USA,Blog Page,175,163,93,49.15,257,21,504,None,May
+31/05/2024,Direct,Tablet,Canada,Promo Page,90,68,36,41.42,117,16,352,None,May
+31/05/2024,Email Marketing,Desktop,Kenya,Checkout Page,286,229,117,45.66,114,12,624,Winter Sale,May
+31/05/2024,Referral,Tablet,USA,Product Page,159,128,92,45.18,144,15,420,New Product Launch,May
+01/06/2024,Google Ads,Tablet,Germany,Checkout Page,167,157,86,53.98,312,10,330,Email Campaign,Jun
+01/06/2024,Facebook Ads,Mobile,Canada,Blog Page,310,251,158,54.03,144,3,111,Brand Awareness,Jun
+01/06/2024,Instagram Ads,Mobile,India,Promo Page,297,253,173,32.2,118,24,768,Email Campaign,Jun
+01/06/2024,Organic Search,Mobile,USA,Blog Page,426,384,183,41.87,295,28,868,Email Campaign,Jun
+01/06/2024,Direct,Mobile,USA,Landing Page,461,362,269,54.85,110,3,78,SEO Campaign,Jun
+01/06/2024,Email Marketing,Mobile,USA,Blog Page,386,313,167,54.25,310,29,725,SEO Campaign,Jun
+01/06/2024,Referral,Desktop,India,Blog Page,485,457,332,51.87,228,26,676,SEO Campaign,Jun
+02/06/2024,Google Ads,Tablet,Australia,Checkout Page,127,105,62,35.11,104,7,224,None,Jun
+02/06/2024,Facebook Ads,Mobile,India,Blog Page,116,96,58,28.61,290,29,667,Winter Sale,Jun
+02/06/2024,Instagram Ads,Mobile,Kenya,Promo Page,222,167,103,49.26,274,12,564,Email Campaign,Jun
+02/06/2024,Organic Search,Tablet,India,Promo Page,163,146,94,50.06,319,32,1376,Brand Awareness,Jun
+02/06/2024,Direct,Tablet,Kenya,Product Page,131,119,83,31.12,232,31,1240,SEO Campaign,Jun
+02/06/2024,Email Marketing,Mobile,USA,Promo Page,94,77,41,34.94,194,23,644,New Product Launch,Jun
+02/06/2024,Referral,Mobile,Kenya,Checkout Page,122,104,75,52.3,292,33,1551,SEO Campaign,Jun
+03/06/2024,Google Ads,Mobile,USA,Promo Page,334,268,189,29.89,132,23,851,SEO Campaign,Jun
+03/06/2024,Facebook Ads,Tablet,India,Product Page,105,82,44,30.86,312,19,684,Winter Sale,Jun
+03/06/2024,Instagram Ads,Tablet,Germany,Landing Page,184,156,101,50.88,92,8,184,Email Campaign,Jun
+03/06/2024,Organic Search,Mobile,India,Product Page,330,308,144,37.9,154,5,225,None,Jun
+03/06/2024,Direct,Mobile,India,Blog Page,109,85,49,39.02,232,29,841,Email Campaign,Jun
+03/06/2024,Email Marketing,Tablet,Germany,Checkout Page,208,179,129,38.65,319,14,630,Email Campaign,Jun
+03/06/2024,Referral,Mobile,USA,Promo Page,332,315,158,41.57,204,20,1060,Spring Sale,Jun
+04/06/2024,Google Ads,Mobile,Kenya,Landing Page,310,259,152,34.48,310,3,171,New Product Launch,Jun
+04/06/2024,Facebook Ads,Mobile,Germany,Promo Page,207,188,110,44.38,200,28,1204,Email Campaign,Jun
+04/06/2024,Instagram Ads,Tablet,UK,Promo Page,177,143,104,43.89,229,23,690,SEO Campaign,Jun
+04/06/2024,Organic Search,Desktop,Germany,Product Page,157,121,70,40.93,205,25,1125,New Product Launch,Jun
+04/06/2024,Direct,Desktop,Germany,Product Page,469,352,253,53.14,295,12,264,Brand Awareness,Jun
+04/06/2024,Email Marketing,Tablet,UK,Landing Page,107,84,50,42.74,156,9,315,SEO Campaign,Jun
+04/06/2024,Referral,Tablet,USA,Checkout Page,416,356,175,28.25,166,13,390,Spring Sale,Jun
+05/06/2024,Google Ads,Desktop,USA,Promo Page,107,89,57,36.35,128,4,208,Spring Sale,Jun
+05/06/2024,Facebook Ads,Tablet,USA,Promo Page,235,200,126,54,289,22,682,Winter Sale,Jun
+05/06/2024,Instagram Ads,Tablet,India,Checkout Page,345,302,206,45.5,197,7,224,Brand Awareness,Jun
+05/06/2024,Organic Search,Desktop,Canada,Home Page,442,395,273,35.82,137,23,1242,SEO Campaign,Jun
+05/06/2024,Direct,Desktop,Australia,Promo Page,244,226,157,46.43,219,33,1716,SEO Campaign,Jun
+05/06/2024,Email Marketing,Tablet,UK,Promo Page,386,320,164,37.61,277,13,416,Winter Sale,Jun
+05/06/2024,Referral,Tablet,India,Checkout Page,150,126,73,31.26,102,23,1081,Brand Awareness,Jun
+06/06/2024,Google Ads,Mobile,Canada,Home Page,94,71,42,41.63,141,6,132,None,Jun
+06/06/2024,Facebook Ads,Desktop,UK,Landing Page,418,364,185,34.79,167,30,1380,SEO Campaign,Jun
+06/06/2024,Instagram Ads,Desktop,Australia,Home Page,181,147,75,41.28,136,32,1280,SEO Campaign,Jun
+06/06/2024,Organic Search,Mobile,India,Blog Page,489,424,199,28.71,174,16,448,None,Jun
+06/06/2024,Direct,Mobile,USA,Checkout Page,138,118,67,53.59,142,18,810,Brand Awareness,Jun
+06/06/2024,Email Marketing,Tablet,Germany,Product Page,441,402,219,32.42,118,21,567,New Product Launch,Jun
+06/06/2024,Referral,Desktop,Australia,Product Page,388,299,165,54.04,249,8,408,Winter Sale,Jun
+07/06/2024,Google Ads,Desktop,Kenya,Blog Page,137,115,78,34.97,197,9,243,Winter Sale,Jun
+07/06/2024,Facebook Ads,Desktop,Australia,Home Page,375,292,189,44.34,160,29,957,Winter Sale,Jun
+07/06/2024,Instagram Ads,Desktop,Kenya,Checkout Page,379,290,196,36.48,284,9,432,Brand Awareness,Jun
+07/06/2024,Organic Search,Tablet,Kenya,Checkout Page,409,340,192,42.42,305,3,93,Spring Sale,Jun
+07/06/2024,Direct,Desktop,Australia,Checkout Page,462,408,221,35.9,193,32,1024,Email Campaign,Jun
+07/06/2024,Email Marketing,Mobile,UK,Blog Page,104,79,38,33.01,259,20,1020,Winter Sale,Jun
+07/06/2024,Referral,Tablet,Germany,Landing Page,421,357,176,52.85,295,16,432,None,Jun
+08/06/2024,Google Ads,Desktop,Germany,Landing Page,299,230,134,34.45,115,10,300,SEO Campaign,Jun
+08/06/2024,Facebook Ads,Tablet,Canada,Product Page,460,408,261,47.34,165,17,408,New Product Launch,Jun
+08/06/2024,Instagram Ads,Mobile,USA,Checkout Page,282,216,118,38.09,230,16,704,None,Jun
+08/06/2024,Organic Search,Desktop,UK,Landing Page,95,78,35,29.64,306,17,391,None,Jun
+08/06/2024,Direct,Mobile,India,Blog Page,135,114,51,31.78,194,10,330,None,Jun
+08/06/2024,Email Marketing,Desktop,Germany,Promo Page,155,127,91,49.07,173,20,660,Winter Sale,Jun
+08/06/2024,Referral,Desktop,India,Home Page,361,301,153,28.75,223,12,708,Winter Sale,Jun
+09/06/2024,Google Ads,Mobile,USA,Checkout Page,140,128,74,43.41,178,33,1848,New Product Launch,Jun
+09/06/2024,Facebook Ads,Mobile,Australia,Product Page,329,285,142,31.33,149,13,403,Brand Awareness,Jun
+09/06/2024,Instagram Ads,Mobile,UK,Promo Page,142,112,55,49.52,97,31,837,None,Jun
+09/06/2024,Organic Search,Mobile,India,Blog Page,307,254,180,53.09,129,15,615,SEO Campaign,Jun
+09/06/2024,Direct,Mobile,Germany,Promo Page,163,131,74,32.59,187,9,513,Spring Sale,Jun
+09/06/2024,Email Marketing,Tablet,UK,Blog Page,249,214,110,37.2,104,33,924,Winter Sale,Jun
+09/06/2024,Referral,Mobile,Australia,Blog Page,168,148,92,47.88,255,24,1008,None,Jun
+10/06/2024,Google Ads,Mobile,India,Promo Page,400,331,175,32.54,189,30,1230,Email Campaign,Jun
+10/06/2024,Facebook Ads,Tablet,Kenya,Landing Page,442,398,271,40.3,120,34,1054,SEO Campaign,Jun
+10/06/2024,Instagram Ads,Tablet,Australia,Promo Page,175,159,99,34.81,268,34,782,Email Campaign,Jun
+10/06/2024,Organic Search,Mobile,USA,Home Page,420,381,214,43.2,313,7,238,None,Jun
+10/06/2024,Direct,Tablet,USA,Checkout Page,113,97,59,38.86,290,29,696,Brand Awareness,Jun
+10/06/2024,Email Marketing,Mobile,Kenya,Checkout Page,224,171,79,34.84,244,8,200,New Product Launch,Jun
+10/06/2024,Referral,Desktop,Canada,Home Page,486,430,296,31.05,157,22,836,Spring Sale,Jun
+11/06/2024,Google Ads,Desktop,Kenya,Landing Page,275,250,140,31.38,288,20,900,Winter Sale,Jun
+11/06/2024,Facebook Ads,Desktop,USA,Checkout Page,396,332,221,30.9,170,24,768,Email Campaign,Jun
+11/06/2024,Instagram Ads,Desktop,Australia,Promo Page,357,298,171,45.92,143,28,1120,Spring Sale,Jun
+11/06/2024,Organic Search,Tablet,India,Home Page,113,105,56,31.01,143,16,944,Email Campaign,Jun
+11/06/2024,Direct,Mobile,India,Promo Page,481,451,299,35.98,188,9,306,None,Jun
+11/06/2024,Email Marketing,Mobile,Canada,Blog Page,405,324,194,28.82,98,33,1749,Email Campaign,Jun
+11/06/2024,Referral,Tablet,USA,Home Page,421,371,260,47.4,101,25,850,Email Campaign,Jun
+12/06/2024,Google Ads,Mobile,Germany,Checkout Page,422,379,260,48.19,136,28,672,Email Campaign,Jun
+12/06/2024,Facebook Ads,Tablet,Germany,Home Page,431,326,183,28.94,110,24,696,SEO Campaign,Jun
+12/06/2024,Instagram Ads,Tablet,Canada,Product Page,267,248,172,42.03,251,26,650,None,Jun
+12/06/2024,Organic Search,Tablet,India,Landing Page,405,332,242,49.59,159,7,336,Winter Sale,Jun
+12/06/2024,Direct,Mobile,Kenya,Checkout Page,490,414,261,54.62,225,25,525,Winter Sale,Jun
+12/06/2024,Email Marketing,Tablet,Australia,Home Page,246,228,129,53.97,227,18,810,Winter Sale,Jun
+12/06/2024,Referral,Tablet,UK,Product Page,147,132,80,35.25,263,30,1560,Email Campaign,Jun
+13/06/2024,Google Ads,Desktop,Canada,Checkout Page,106,92,52,33.36,158,12,480,Winter Sale,Jun
+13/06/2024,Facebook Ads,Mobile,Australia,Blog Page,308,256,156,42.67,251,12,468,SEO Campaign,Jun
+13/06/2024,Instagram Ads,Mobile,Kenya,Product Page,410,361,185,36.59,213,7,371,Brand Awareness,Jun
+13/06/2024,Organic Search,Mobile,Germany,Blog Page,354,289,149,41.41,131,19,513,SEO Campaign,Jun
+13/06/2024,Direct,Tablet,Germany,Product Page,214,179,82,48.81,106,7,273,None,Jun
+13/06/2024,Email Marketing,Mobile,UK,Home Page,386,361,163,29.29,162,33,1485,Brand Awareness,Jun
+13/06/2024,Referral,Tablet,Australia,Product Page,199,178,80,53.76,178,34,782,SEO Campaign,Jun
+14/06/2024,Google Ads,Desktop,USA,Product Page,456,418,199,47.95,269,18,396,None,Jun
+14/06/2024,Facebook Ads,Desktop,Kenya,Landing Page,222,186,117,40.86,220,19,418,New Product Launch,Jun
+14/06/2024,Instagram Ads,Desktop,Canada,Landing Page,404,347,239,28.1,268,34,1020,Brand Awareness,Jun
+14/06/2024,Organic Search,Desktop,Canada,Landing Page,247,224,143,42.38,285,3,96,New Product Launch,Jun
+14/06/2024,Direct,Tablet,Australia,Promo Page,347,296,173,34.91,242,12,264,None,Jun
+14/06/2024,Email Marketing,Tablet,Germany,Promo Page,255,194,133,32.16,109,13,663,Spring Sale,Jun
+14/06/2024,Referral,Mobile,Kenya,Home Page,92,84,50,31.76,235,33,1848,New Product Launch,Jun
+15/06/2024,Google Ads,Tablet,UK,Promo Page,311,258,171,51.67,246,17,833,Brand Awareness,Jun
+15/06/2024,Facebook Ads,Desktop,India,Home Page,162,153,80,34.88,310,17,374,New Product Launch,Jun
+15/06/2024,Instagram Ads,Mobile,India,Checkout Page,90,77,56,36.59,139,28,756,Email Campaign,Jun
+15/06/2024,Organic Search,Mobile,Australia,Checkout Page,135,110,59,42.61,200,6,150,Email Campaign,Jun
+15/06/2024,Direct,Desktop,India,Promo Page,319,291,212,50.7,246,16,368,Spring Sale,Jun
+15/06/2024,Email Marketing,Mobile,Kenya,Checkout Page,316,298,175,43.49,297,17,408,New Product Launch,Jun
+15/06/2024,Referral,Mobile,Kenya,Product Page,383,294,134,49.36,238,29,1334,Spring Sale,Jun
+16/06/2024,Google Ads,Tablet,USA,Home Page,475,439,249,35.25,126,8,408,Spring Sale,Jun
+16/06/2024,Facebook Ads,Desktop,Canada,Checkout Page,259,225,134,49.22,97,29,1334,Spring Sale,Jun
+16/06/2024,Instagram Ads,Desktop,Kenya,Checkout Page,84,70,35,53.44,159,21,546,None,Jun
+16/06/2024,Organic Search,Mobile,Germany,Promo Page,190,156,112,42.31,217,27,1512,Email Campaign,Jun
+16/06/2024,Direct,Mobile,Canada,Product Page,149,121,71,46.2,310,29,1276,New Product Launch,Jun
+16/06/2024,Email Marketing,Desktop,India,Home Page,179,165,90,38.7,140,18,540,Spring Sale,Jun
+16/06/2024,Referral,Tablet,Canada,Home Page,235,209,126,43.82,239,10,460,Brand Awareness,Jun
+17/06/2024,Google Ads,Mobile,UK,Promo Page,420,331,177,41.64,200,4,132,None,Jun
+17/06/2024,Facebook Ads,Tablet,Canada,Checkout Page,247,227,107,49.01,296,28,868,New Product Launch,Jun
+17/06/2024,Instagram Ads,Mobile,India,Product Page,289,220,100,32.81,226,25,1450,None,Jun
+17/06/2024,Organic Search,Tablet,India,Home Page,86,80,42,40.48,288,23,1288,New Product Launch,Jun
+17/06/2024,Direct,Tablet,Canada,Product Page,327,269,121,28.25,202,6,258,New Product Launch,Jun
+17/06/2024,Email Marketing,Desktop,USA,Blog Page,170,156,70,36.43,266,24,1176,SEO Campaign,Jun
+17/06/2024,Referral,Mobile,Germany,Blog Page,388,337,160,46.95,109,19,494,New Product Launch,Jun
+18/06/2024,Google Ads,Desktop,India,Home Page,337,270,164,41.97,222,26,676,Email Campaign,Jun
+18/06/2024,Facebook Ads,Mobile,UK,Promo Page,493,372,278,44.84,147,22,1166,None,Jun
+18/06/2024,Instagram Ads,Desktop,Kenya,Checkout Page,136,119,89,35.1,175,7,273,Brand Awareness,Jun
+18/06/2024,Organic Search,Desktop,UK,Blog Page,497,443,208,54.25,102,17,867,Brand Awareness,Jun
+18/06/2024,Direct,Mobile,India,Blog Page,259,235,168,35.64,105,29,841,New Product Launch,Jun
+18/06/2024,Email Marketing,Desktop,Australia,Home Page,160,151,71,45.87,125,3,69,Winter Sale,Jun
+18/06/2024,Referral,Mobile,Kenya,Home Page,109,101,73,41.83,112,18,738,None,Jun
+19/06/2024,Google Ads,Mobile,UK,Landing Page,309,268,172,38.7,154,11,407,SEO Campaign,Jun
+19/06/2024,Facebook Ads,Mobile,Australia,Promo Page,345,259,175,30.87,200,19,494,None,Jun
+19/06/2024,Instagram Ads,Desktop,Canada,Checkout Page,148,116,81,43.44,266,9,513,Email Campaign,Jun
+19/06/2024,Organic Search,Desktop,Kenya,Checkout Page,247,210,140,43.03,101,19,1064,Spring Sale,Jun
+19/06/2024,Direct,Tablet,USA,Home Page,144,116,57,42.7,166,18,666,Email Campaign,Jun
+19/06/2024,Email Marketing,Tablet,India,Landing Page,163,137,91,42.29,279,22,704,Brand Awareness,Jun
+19/06/2024,Referral,Tablet,UK,Checkout Page,132,108,63,54.43,91,7,371,SEO Campaign,Jun
+20/06/2024,Google Ads,Tablet,Canada,Blog Page,236,216,124,39.9,162,16,448,New Product Launch,Jun
+20/06/2024,Facebook Ads,Tablet,India,Checkout Page,243,199,110,40.66,299,30,720,Spring Sale,Jun
+20/06/2024,Instagram Ads,Desktop,UK,Blog Page,185,169,81,47.01,308,20,980,Email Campaign,Jun
+20/06/2024,Organic Search,Mobile,India,Promo Page,432,333,200,46.82,174,28,952,Email Campaign,Jun
+20/06/2024,Direct,Mobile,Canada,Product Page,429,354,195,44.76,307,6,354,Winter Sale,Jun
+20/06/2024,Email Marketing,Tablet,USA,Checkout Page,90,70,35,46.56,239,12,444,Spring Sale,Jun
+20/06/2024,Referral,Mobile,UK,Product Page,306,243,129,42.79,130,13,520,Brand Awareness,Jun
+21/06/2024,Google Ads,Desktop,Kenya,Product Page,139,109,62,37.6,129,15,435,Winter Sale,Jun
+21/06/2024,Facebook Ads,Mobile,Australia,Blog Page,437,350,196,41.44,151,12,384,Brand Awareness,Jun
+21/06/2024,Instagram Ads,Desktop,USA,Blog Page,369,312,173,50.35,221,21,1218,Email Campaign,Jun
+21/06/2024,Organic Search,Desktop,USA,Promo Page,363,304,225,50.96,190,32,1824,Email Campaign,Jun
+21/06/2024,Direct,Tablet,Kenya,Checkout Page,173,132,74,48.02,220,34,1836,Winter Sale,Jun
+21/06/2024,Email Marketing,Tablet,Germany,Product Page,458,434,319,50.77,155,17,357,New Product Launch,Jun
+21/06/2024,Referral,Mobile,UK,Product Page,338,315,198,49.68,252,26,1118,SEO Campaign,Jun
+22/06/2024,Google Ads,Mobile,Germany,Blog Page,486,401,261,49.12,202,31,806,None,Jun
+22/06/2024,Facebook Ads,Tablet,UK,Blog Page,432,337,176,34.07,206,26,1170,SEO Campaign,Jun
+22/06/2024,Instagram Ads,Mobile,Kenya,Home Page,374,328,228,43.13,163,6,132,Brand Awareness,Jun
+22/06/2024,Organic Search,Mobile,Canada,Product Page,123,97,64,49.13,172,8,304,Brand Awareness,Jun
+22/06/2024,Direct,Desktop,India,Blog Page,100,83,40,41.86,116,9,351,Winter Sale,Jun
+22/06/2024,Email Marketing,Desktop,India,Landing Page,211,171,119,42.96,307,28,1036,Winter Sale,Jun
+22/06/2024,Referral,Mobile,UK,Landing Page,169,136,65,45.82,264,20,660,New Product Launch,Jun
+23/06/2024,Google Ads,Tablet,Germany,Checkout Page,119,101,48,38.82,250,9,270,Brand Awareness,Jun
+23/06/2024,Facebook Ads,Mobile,Kenya,Product Page,125,117,83,41.5,107,24,672,Email Campaign,Jun
+23/06/2024,Instagram Ads,Desktop,Germany,Blog Page,257,218,112,35.34,189,27,810,Spring Sale,Jun
+23/06/2024,Organic Search,Desktop,Australia,Promo Page,129,116,61,32.4,177,10,450,SEO Campaign,Jun
+23/06/2024,Direct,Tablet,Canada,Blog Page,154,138,81,49.14,223,21,777,Winter Sale,Jun
+23/06/2024,Email Marketing,Mobile,Germany,Product Page,334,276,187,39.48,293,14,700,Brand Awareness,Jun
+23/06/2024,Referral,Desktop,Canada,Product Page,413,335,154,53.19,254,20,460,SEO Campaign,Jun
+24/06/2024,Google Ads,Mobile,Germany,Home Page,275,260,136,30.15,106,18,504,New Product Launch,Jun
+24/06/2024,Facebook Ads,Tablet,Kenya,Blog Page,454,406,262,47.77,164,13,351,SEO Campaign,Jun
+24/06/2024,Instagram Ads,Tablet,India,Product Page,434,366,255,35.33,206,29,1102,Brand Awareness,Jun
+24/06/2024,Organic Search,Desktop,Australia,Blog Page,182,137,78,30.88,254,14,392,Winter Sale,Jun
+24/06/2024,Direct,Mobile,USA,Home Page,427,328,212,45.47,289,34,680,SEO Campaign,Jun
+24/06/2024,Email Marketing,Mobile,Germany,Landing Page,380,329,151,41.18,173,8,160,SEO Campaign,Jun
+24/06/2024,Referral,Mobile,UK,Landing Page,400,362,184,31.53,295,27,621,None,Jun
+25/06/2024,Google Ads,Desktop,Canada,Product Page,214,187,139,42.41,253,26,858,Email Campaign,Jun
+25/06/2024,Facebook Ads,Mobile,UK,Blog Page,294,265,121,41.55,195,6,204,Brand Awareness,Jun
+25/06/2024,Instagram Ads,Mobile,UK,Promo Page,325,256,153,49.37,107,28,980,Winter Sale,Jun
+25/06/2024,Organic Search,Tablet,India,Product Page,84,79,38,28.4,154,18,738,Brand Awareness,Jun
+25/06/2024,Direct,Tablet,USA,Checkout Page,185,165,79,38.98,170,11,517,Spring Sale,Jun
+25/06/2024,Email Marketing,Tablet,Germany,Checkout Page,324,290,203,53.64,238,16,336,Email Campaign,Jun
+25/06/2024,Referral,Mobile,Germany,Checkout Page,436,358,221,45.97,307,32,1856,Email Campaign,Jun
+26/06/2024,Google Ads,Desktop,Kenya,Product Page,87,65,34,48.75,275,20,760,SEO Campaign,Jun
+26/06/2024,Facebook Ads,Desktop,Kenya,Checkout Page,294,223,125,47.46,283,32,1152,Email Campaign,Jun
+26/06/2024,Instagram Ads,Mobile,Australia,Checkout Page,375,334,187,35.53,256,33,1386,Spring Sale,Jun
+26/06/2024,Organic Search,Desktop,Australia,Home Page,490,437,292,30.71,275,31,868,Email Campaign,Jun
+26/06/2024,Direct,Desktop,Canada,Product Page,243,202,119,39.1,211,27,1377,Winter Sale,Jun
+26/06/2024,Email Marketing,Desktop,Canada,Checkout Page,389,340,212,37.99,112,19,665,Winter Sale,Jun
+26/06/2024,Referral,Mobile,Germany,Home Page,265,248,120,33.72,104,20,1020,Winter Sale,Jun
+27/06/2024,Google Ads,Mobile,India,Promo Page,332,291,151,43.63,187,17,340,SEO Campaign,Jun
+27/06/2024,Facebook Ads,Desktop,USA,Blog Page,240,184,95,28.08,304,17,765,None,Jun
+27/06/2024,Instagram Ads,Tablet,Germany,Promo Page,319,287,209,29.46,273,26,832,Brand Awareness,Jun
+27/06/2024,Organic Search,Desktop,Australia,Promo Page,113,96,55,41.84,243,21,945,New Product Launch,Jun
+27/06/2024,Direct,Mobile,Canada,Checkout Page,457,408,281,49.38,300,15,555,Spring Sale,Jun
+27/06/2024,Email Marketing,Mobile,Kenya,Blog Page,145,108,60,47.92,203,9,189,Spring Sale,Jun
+27/06/2024,Referral,Desktop,Canada,Product Page,154,132,92,53.18,194,7,182,Email Campaign,Jun
+28/06/2024,Google Ads,Mobile,Canada,Checkout Page,366,319,155,43.65,256,30,1740,New Product Launch,Jun
+28/06/2024,Facebook Ads,Desktop,USA,Product Page,495,418,272,36.74,192,27,1458,None,Jun
+28/06/2024,Instagram Ads,Mobile,India,Promo Page,108,100,70,31.98,274,20,1120,Spring Sale,Jun
+28/06/2024,Organic Search,Tablet,Australia,Promo Page,116,108,72,53.2,162,8,288,Winter Sale,Jun
+28/06/2024,Direct,Tablet,Kenya,Checkout Page,154,137,86,41.23,251,13,650,Email Campaign,Jun
+28/06/2024,Email Marketing,Tablet,UK,Landing Page,100,94,59,48.23,97,30,810,None,Jun
+28/06/2024,Referral,Desktop,Germany,Home Page,479,446,320,45.66,239,34,1564,Spring Sale,Jun
+29/06/2024,Google Ads,Mobile,Canada,Checkout Page,299,236,128,48.79,97,8,288,Spring Sale,Jun
+29/06/2024,Facebook Ads,Tablet,Australia,Home Page,430,388,246,34.27,252,9,423,Email Campaign,Jun
+29/06/2024,Instagram Ads,Tablet,USA,Blog Page,258,240,137,42.17,123,28,1484,Winter Sale,Jun
+29/06/2024,Organic Search,Desktop,Australia,Blog Page,225,170,106,34.21,296,15,480,SEO Campaign,Jun
+29/06/2024,Direct,Desktop,Australia,Checkout Page,145,134,93,54.74,211,24,600,New Product Launch,Jun
+29/06/2024,Email Marketing,Mobile,Australia,Checkout Page,310,245,142,29.53,314,4,140,Brand Awareness,Jun
+29/06/2024,Referral,Tablet,Australia,Promo Page,285,214,135,29.7,279,19,665,SEO Campaign,Jun
+30/06/2024,Google Ads,Mobile,UK,Promo Page,362,331,186,43.91,106,19,1045,None,Jun
+30/06/2024,Facebook Ads,Mobile,Canada,Landing Page,177,150,85,33.7,237,24,1008,Spring Sale,Jun
+30/06/2024,Instagram Ads,Desktop,India,Home Page,368,310,191,35.69,104,29,957,Spring Sale,Jun
+30/06/2024,Organic Search,Tablet,Kenya,Landing Page,335,292,139,48.37,116,4,208,None,Jun
+30/06/2024,Direct,Tablet,UK,Home Page,318,290,173,50.86,319,11,517,None,Jun
+30/06/2024,Email Marketing,Tablet,UK,Blog Page,435,336,200,44.88,177,22,1100,Brand Awareness,Jun
+30/06/2024,Referral,Mobile,Australia,Promo Page,215,201,114,44.87,167,34,1564,Email Campaign,Jun
