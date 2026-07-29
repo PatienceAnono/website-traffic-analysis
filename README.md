@@ -251,32 +251,6 @@ website-traffic-analysis/
 │   └── *.png                        # Exported charts for README and portfolio
 │
 └── README.md
-```
-
----
-
-## ⚙️ How to Run
-
-**1. Clone the repo**
-```bash
-git clone https://github.com/PatienceAnono/website-traffic-analysis.git
-cd website-traffic-analysis
-```
-
-**2. Install dependencies**
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-**3. Run notebooks in order**
-```bash
-jupyter notebook notebooks/01_data_cleaning.ipynb
-```
-
-**4. Open the Power BI dashboard**
-
-Open `dashboard/traffic_revenue_dashboard.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-
 ---
 
 ## 🔖 Analytical Limitations
