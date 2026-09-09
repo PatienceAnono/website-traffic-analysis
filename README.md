@@ -1,270 +1,342 @@
-# 📊 Website Traffic & Revenue Analysis
+# Website Traffic & Revenue Analysis
 
-> **End-to-end data analytics project** uncovering what actually drives revenue — not just traffic.  
-> Tools: `Python` · `pandas` · `Power BI` · `DAX` &nbsp;|&nbsp; Dataset: 1,274 records · Jan–Jun 2024
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-data%20analysis-150458?logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811?logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-data%20modeling-555770)
+![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)
 
----
+A personal data analytics project analyzing website traffic, marketing performance, user behavior, conversions, and revenue for a six-month e-commerce dataset (January–June 2024). The project moves from raw data through cleaning, exploratory and statistical analysis in Python, and into an interactive Power BI dashboard with a modeled semantic layer and DAX measures.
 
-## 📁 Table of Contents
+I built this project to practice and demonstrate the full analytics workflow I use as a data analyst: turning a raw dataset into a statistically grounded, stakeholder-ready decision-support tool — not just a set of charts.
 
-- [Background & Overview](#-background--overview)
-- [Data Structure Overview](#-data-structure-overview)
-- [Executive Summary](#-executive-summary)
-- [Insights Deep Dive](#-insights-deep-dive)
-- [Recommendations](#-recommendations)
-- [Project Structure](#-project-structure)
-- [How to Run](#-how-to-run)
+**Central finding:** traffic volume and revenue are essentially uncorrelated (r = 0.012) in this dataset. Conversion quality, not session count, is what actually drives revenue — and session volume is *negatively* correlated with conversion rate (r = -0.640), meaning the channels bringing in the most traffic tend to convert it least efficiently.
 
 ---
 
-## 🔍 Background & Overview
+## Table of Contents
 
-### Business Problem
-
-A digital business wanted to understand whether its marketing spend was generating proportional revenue  or simply driving traffic that doesn't convert. The core question:
-
-> *"Are we investing in the right channels or are we optimising for vanity metrics?"*
-
-### Objectives
-
-- Identify which traffic sources deliver the highest revenue and conversion rates
-- Determine whether session volume is a reliable proxy for revenue performance
-- Uncover device-level and temporal patterns that affect conversion quality
-- Translate findings into prioritised, actionable business recommendations
-
-### Methodology
-
-| Step | Description | Tool |
-|------|-------------|------|
-| 1. Problem definition | Framed the business question before touching the data | — |
-| 2. Data cleaning & audit | Validated 1,274 rows, 19 columns — nulls, outliers, derived fields | `pandas` |
-| 3. Correlation analysis | Pearson matrix across Sessions, Revenue, CVR, Bounce Rate | `pandas` · `seaborn` |
-| 4. Segmentation | Grouped by Source, Device, Month, Weekday, Page, Campaign | `pandas` · `pivot_table` |
-| 5. Cross-dimensional analysis | Traffic Source × Device revenue matrix | `pandas` · `unstack` |
-| 6. Visualisation | Interactive dashboard with slicers for non-technical stakeholders | `Power BI` · `DAX` |
+- [Project Workflow](#project-workflow)
+- [Business Questions Answered](#business-questions-answered)
+- [Dataset](#dataset)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Statistical Analysis: Correlation](#statistical-analysis-correlation)
+- [Key Business Insights](#key-business-insights)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Power BI Data Model](#power-bi-data-model)
+- [DAX Measures](#dax-measures)
+- [Interactivity](#interactivity)
+- [Tools & Technologies](#tools--technologies)
+- [Repository Structure](#repository-structure)
+- [Limitations](#limitations)
+- [Project Outcome](#project-outcome)
 
 ---
 
-## 🗂 Data Structure Overview
+## Project Workflow
 
-### Dataset at a Glance
+```
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis (Python)
+   ↓
+Statistical Analysis (Correlation)
+   ↓
+Business Insights
+   ↓
+Power BI Data Modeling
+   ↓
+DAX Measures
+   ↓
+Interactive Dashboard
+   ↓
+Stakeholder-Ready Reporting
+```
 
-| Attribute | Type | Description |
-|-----------|------|-------------|
-| `Date` | Date | Daily record (Jan–Jun 2024) |
-| `Traffic_Source` | Categorical | 7 channels: Email, Google Ads, Facebook, Instagram, Organic, Direct, Referral |
-| `Device_Type` | Categorical | Mobile, Tablet, Desktop |
-| `Country` | Categorical | Multi-country geographic origin |
-| `Page_Visited` | Categorical | 6 types: Promo, Product, Blog, Checkout, Home, Landing |
-| `Sessions` | Integer | Total visits per record |
-| `Users` / `New_Users` | Integer | Unique and first-time visitors |
-| `Bounce_Rate` | Float (%) | Single-page session percentage |
-| `Avg_Session_Duration` | Integer (s) | Mean time on site in seconds |
-| `Conversions` | Integer | Goal completions (purchases/sign-ups) |
-| `Revenue` | Integer ($) | Revenue attributed to the record |
-| `Campaign_Name` | Categorical | 7 campaign types including No Campaign |
-| `Month` / `Day` / `Weekday` | Temporal | Derived date parts for time-series analysis |
-| `Conversion_Rate` *(derived)* | Float (%) | `Conversions / Sessions` |
-| `Revenue_per_Session` *(derived)* | Float ($) | `Revenue / Sessions` |
-
-### Data Quality
-
-- ✅ No null values across all 19 columns
-- ✅ Derived fields validated against source columns
-- ✅ No duplicate date-source-device-page combinations
-- ⚠️ `Conversion_Rate` max: 39% — flagged as a spike, retained as plausible outlier
-- ℹ️ `Revenue_per_Session` used as the primary diagnostic metric (normalises for session volume differences)
-
----
-
-## 📋 Executive Summary
-
-### The Central Finding
-
-> **Sessions and Revenue have a Pearson correlation of r = 0.012 — effectively zero.**
-
-A business optimising for session volume is not, in this dataset, optimising for revenue. `Conversion_Rate`, by contrast, correlates with Revenue at **r = 0.51**. Traffic *quality* matters far more than traffic *quantity*.
-
-### Key Metrics at a Glance
-
-| Metric | Value |
-|--------|-------|
-| Total Revenue | **$941,205** |
-| Total Sessions | **363,116** |
-| Average Conversion Rate | **8.5%** |
-| Sessions ↔ Revenue correlation | **r = 0.012** |
-| CVR ↔ Revenue correlation | **r = 0.51** |
-| Peak month | **March** ($173,832 · +14.8% vs avg) |
-| Top channel by revenue | **Email Marketing** ($141,302) |
-| Top channel by CVR | **Direct** (9.13%) |
-
-### Performance Summary by Dimension
-
-| Dimension | Top Performer | Bottom Performer | Gap |
-|-----------|---------------|------------------|-----|
-| Traffic Source (Revenue) | Email Marketing · $141K | Google Ads · $127K | $14.6K |
-| Traffic Source (CVR) | Direct · 9.13% | Google Ads · 7.50% | 1.63 pp |
-| Device (Revenue) | Mobile · $340K | Desktop · $300K | $40K |
-| Device (CVR) | Tablet · 8.84% | Desktop · 8.20% | 0.64 pp |
-| Month | March · $173.8K | April · $144.7K | $29.1K |
-| Page (Revenue) | Promo Page · $182K | Landing Page · $124K | $58K |
+| Stage | What happened |
+|---|---|
+| **Raw data** | 1,274-row website traffic export loaded into pandas |
+| **Data cleaning** | Type conversion, categorical standardization, feature extraction |
+| **EDA (Python)** | Traffic source, device, campaign, page, and time-based breakdowns in pandas/seaborn |
+| **Statistical analysis** | Pearson correlation across sessions, conversions, conversion rate, revenue, and bounce rate |
+| **Business insights** | Translating statistical patterns into channel- and device-level recommendations |
+| **Power BI modeling** | A fact table plus a dedicated date table, connected by an explicit relationship |
+| **DAX measures** | Explicit, weighted measures replacing raw-column aggregation |
+| **Interactive dashboard** | A 3-page Power BI report with slicers and cross-filtering |
+| **Stakeholder reporting** | An executive-first layout designed to be read in under a minute |
 
 ---
 
-## 🔬 Insights Deep Dive
+## Business Questions Answered
 
-### 1. Traffic Source Analysis
-
-| Traffic Source | Revenue | Sessions | CVR | Rev/Session |
-|----------------|---------|----------|-----|-------------|
-| Email Marketing | $141,302 | 54,241 | 8.28% | $2.61 |
-| Instagram Ads | $139,978 | 51,516 | 8.84% | $2.72 |
-| Facebook Ads | $136,990 | 53,976 | 7.95% | $2.54 |
-| Referral | $135,919 | 51,342 | 8.57% | $2.65 |
-| Organic Search | $132,002 | 49,400 | 9.12% | $2.67 |
-| Direct | $128,327 | 49,086 | 9.13% | $2.61 |
-| Google Ads | $126,687 | 53,555 | 7.50% | $2.37 |
-
-**Key findings:**
-- **Email Marketing** generates the highest gross revenue ($141K) from a warm, high-intent audience
-- **Organic Search & Direct** achieve the highest CVRs (9.12–9.13%) with zero paid acquisition cost
-- **Google Ads** drives the most sessions (53,555) but the lowest CVR (7.50%) and Rev/Session ($2.37) — the clearest case of volume over quality in the dataset
-- **Instagram Ads** shows the strongest CVR among paid channels (8.84%), suggesting targeting or creative quality advantages
+- How much revenue does the website generate, and from how much traffic?
+- Which traffic sources generate the most revenue?
+- Which traffic sources convert most efficiently?
+- Which campaigns perform best on revenue and on conversion rate?
+- How does performance vary by device?
+- Does more traffic necessarily translate into more revenue?
+- How does traffic volume relate to conversion rate?
+- Which months and days perform strongest?
+- Are there identifiable seasonal or weekly patterns?
+- What should stakeholders prioritize to improve acquisition and conversion performance?
 
 ---
 
-### 2. Device Performance
+## Dataset
 
-| Device | Revenue | Sessions | CVR | Rev/Session |
-|--------|---------|----------|-----|-------------|
-| Mobile | $339,551 | 134,995 | 8.41% | $2.52 |
-| Tablet | $301,440 | 115,132 | 8.84% | $2.62 |
-| Desktop | $300,214 | 112,989 | 8.20% | $2.66 |
+**Source file:** [`data/cleaned_website_traffic.csv`](data/cleaned_website_traffic.csv) — the cleaned, analysis-ready dataset used for every result in this README and the dashboard. The original export, [`data/website_traffic_Raw_dataset.csv`](data/website_traffic_Raw_dataset.csv), is kept in the repository for traceability.
 
-**Key findings:**
-- **Mobile** dominates session volume (53% of all sessions) and total revenue, but converts 0.43 pp below Tablet
-- **Tablet** users convert at the highest rate (8.84%) — implying more intentional, lower-friction browsing
-- **Desktop** delivers the highest Rev/Session ($2.66) despite the lowest CVR, possibly reflecting higher average order values
-- The Mobile CVR gap is the clearest UX optimisation opportunity in the dataset
+- **1,274 rows**, one row per Date × Traffic Source × Device Type × Page combination
+- **19 columns**
+- **Date range:** January 1, 2024 – June 30, 2024
+- **No null values** in any column
+- **No duplicate rows**
 
----
-
-### 3. Temporal Patterns
-
-**Monthly Revenue:**
-
-| Month | Revenue | Sessions | vs. Period Avg |
-|-------|---------|----------|----------------|
-| March | $173,832 | 64,279 | +14.8% ↑ |
-| January | $158,412 | 61,942 | +4.8% ↑ |
-| May | $157,972 | 61,341 | +4.5% ↑ |
-| February | $153,978 | 56,655 | +1.9% ↑ |
-| June | $152,345 | 58,312 | +0.7% ↑ |
-| April | $144,666 | 60,587 | -4.5% ↓ |
-
-**Day-of-week:** Friday and Sunday are peak revenue days. Wednesday is consistently the weakest.
-
-**Key findings:**
-- March outperforms the six-month average by 14.8%, driven by the Winter Sale campaign
-- The April dip follows March's peak — a likely post-campaign demand pull-forward effect
-- May had nearly identical sessions to March but $16K less revenue, further confirming that volume ≠ revenue
+| Category | Columns |
+|---|---|
+| Time | `Date`, `Month`, `Day`, `Weekday`, `Year` |
+| Acquisition | `Traffic_Source` (7 channels), `Campaign_Name` (7 campaigns, incl. "No Campaign") |
+| Context | `Device_Type` (Mobile, Tablet, Desktop), `Country`, `Page_Visited` (6 page types) |
+| Traffic volume | `Sessions`, `Users`, `New_Users` |
+| Engagement | `Bounce_Rate`, `Avg_Session_Duration` |
+| Outcomes | `Conversions`, `Revenue` |
+| Derived metrics | `Conversion_Rate` (`Conversions / Sessions`), `Revenue_per_Session` (`Revenue / Sessions`) |
 
 ---
 
-### 4. Page-Level Performance
+## Data Cleaning
 
-| Page | Revenue | Sessions | CVR |
-|------|---------|----------|-----|
-| Promo Page | $182,099 | 68,402 | 8.64% |
-| Product Page | $174,751 | 65,756 | 8.80% |
-| Blog Page | $161,629 | 63,908 | 8.07% |
-| Checkout Page | $153,918 | 59,927 | 8.22% |
-| Home Page | $145,120 | 55,913 | 8.55% |
-| Landing Page | $123,688 | 49,210 | 8.63% |
+Cleaning and preparation were done in the [analysis notebook](notebook/website_traffic_analysis.ipynb.ipynb) with pandas:
 
-**Key findings:**
-- **Promo & Product pages** lead on both revenue and CVR — high purchase intent entry points
-- **Blog Page** earns $161.6K despite the lowest CVR (8.07%) purely due to session volume — a volume problem, not a conversion problem
-- **Landing Page** has a reasonable CVR (8.63%) but the lowest revenue — a session acquisition problem, not a conversion problem (different root cause, different fix)
+- Loaded the raw traffic export and inspected data types and structure
+- Converted `Date` to a proper datetime type to enable time-based analysis
+- Extracted `Month`, `Day`, and `Weekday` from `Date` as separate time-dimension fields
+- Reviewed categorical fields (`Traffic_Source`, `Device_Type`) for inconsistent labeling and standardized formatting — no major discrepancies were found
+- Engineered `Conversion_Rate` (`Conversions / Sessions`) and `Revenue_per_Session` (`Revenue / Sessions`) as derived analytical fields
+- Verified the cleaned dataset has zero nulls and zero duplicate rows before proceeding to analysis
+
+The result is `cleaned_website_traffic.csv`, the single source of truth for both the Python analysis and the Power BI dashboard.
 
 ---
 
-### 5. Correlation Analysis
+## Exploratory Data Analysis
 
-| Metric Pair | r | Interpretation |
-|-------------|---|----------------|
-| Conversion Rate ↔ Revenue | **+0.51** | Moderate positive — quality drives revenue |
-| Rev/Session ↔ Revenue | **+0.67** | Strong positive — best revenue predictor |
-| Sessions ↔ Revenue | **+0.01** | No meaningful relationship |
-| Sessions ↔ Conversion Rate | **-0.64** | Negative — volume dilutes quality |
-| Bounce Rate ↔ Revenue | **+0.004** | No relationship |
+EDA was performed in Python (pandas, seaborn, matplotlib) before any dashboard work started, so that the dashboard's structure would be driven by what the data actually showed rather than by assumption. The notebook works through:
 
-> 💡 The **negative correlation between Sessions and CVR (r = −0.64)** is the most counter-intuitive finding: when volume goes up, conversion quality tends to go down — a classic paid acquisition dilution effect.
+- **Overview** — total sessions, conversions, and revenue
+- **Traffic source analysis** — sessions, revenue, and conversion rate by channel
+- **Campaign analysis** — revenue and conversion rate by campaign
+- **Device analysis** — sessions, revenue, and conversion rate by device type
+- **Page-level analysis** — sessions, revenue, and conversion rate by page type
+- **Time-based analysis** — monthly and day-of-week revenue trends
+- **Correlation analysis** — Pearson correlation across the key numeric fields
 
----
-
-## 💡 Recommendations
-
-### 1. Reallocate budget from Google Ads → Email & Organic
-Google Ads drives the most sessions but the weakest Rev/Session ($2.37 vs $2.67 for Organic). Shifting 20% of paid budget to email nurture and SEO content would improve ROAS within 90 days.  
-**Estimated impact:** +8–12% revenue efficiency on current traffic
-
-### 2. Fix the mobile conversion gap
-Closing half the Mobile-to-Tablet CVR gap (0.43 pp) at current session volumes yields ~290 additional conversions.  
-**Recommended tests:** checkout form layout, CTA size, load speed, Apple/Google Pay integration  
-**Estimated impact:** $12,000–$18,000 incremental annual revenue
-
-### 3. Schedule campaigns around March & Fri/Sun peaks
-March outperforms the average by 14.8%. Friday and Sunday are the top revenue days. Aligning budget peaks and email send times to these windows amplifies returns at no additional cost.  
-**Estimated impact:** 15–20% lift in seasonal campaign ROI
-
-### 4. Add conversion pathways to Blog & Home pages
-Blog Page CVR (8.07%) is the lowest of all pages despite high traffic. Home Page has the fewest sessions for a default entry point.  
-**Actions:** contextual product modules in blog posts, exit-intent overlays, A/B test Home page CTA placement  
-**Estimated impact:** 5–10% lift in overall on-site CVR
-
-### 5. Replace session KPIs with conversion-quality metrics
-Sessions as a primary KPI actively works against revenue (r = −0.64 with CVR). Replace with **Revenue-per-Session** and **CVR by source** in marketing dashboards.  
-**Strategic impact:** every planning cycle optimises for value, not volume
+Performing this breakdown first is what surfaced the project's central tension: the channel and device that bring in the *most* traffic (Mobile, Google Ads) are not the ones that convert it *best* (Tablet, Direct/Organic) — a pattern that only becomes visible once traffic is examined alongside conversion rate and revenue together, rather than on its own.
 
 ---
 
-## 📁 Project Structure
+## Statistical Analysis: Correlation
+
+Pearson correlation was used to test which numeric relationships in the dataset actually hold up, rather than relying on visual impressions from bar charts alone. Correlation was used to identify relationships in the observed data — not to establish causality.
+
+| Relationship | r | Interpretation |
+|---|---:|---|
+| Sessions ↔ Revenue | **0.012** | Essentially no linear relationship between session volume and revenue |
+| Sessions ↔ Conversion Rate | **-0.640** | A moderately strong negative linear relationship — the dataset shows that as session volume rises, conversion rate tends to fall |
+| Conversions ↔ Revenue | 0.84 | Strong positive relationship — revenue tracks conversions, not raw traffic |
+| Conversion Rate ↔ Revenue | 0.51 | Moderate positive relationship — conversion quality is a meaningful revenue driver |
+| Revenue per Session ↔ Revenue | 0.67 | Strong positive relationship — the best single revenue predictor among the metrics tested |
+| Bounce Rate ↔ Revenue | 0.004 | No meaningful relationship |
+
+A correlation of 0.012 indicates essentially no linear relationship between session volume and revenue in this dataset. A correlation of -0.640 indicates a moderately strong negative linear relationship between sessions and conversion rate. The analysis suggests that channels driving disproportionately high session volume (Google Ads, in this dataset) tend to bring in lower-intent traffic that converts less efficiently — not that additional sessions themselves cause conversion rates to drop.
+
+---
+
+## Key Business Insights
+
+**1. Revenue performance.** The website generated **$941,205** in total revenue from **363,116** sessions and **24,203** conversions over the six-month period.
+
+**2. Traffic volume alone is not a revenue strategy.** Traffic volume alone does not explain commercial performance. The analysis compares sessions, conversion rate, and revenue together to identify channels that generate valuable traffic rather than simply high traffic — and the two are not the same channels here.
+
+**3. Traffic-source performance.** Email Marketing generates the most revenue ($141,302 from 54,241 sessions), while Google Ads generates the most sessions (53,555) but converts weakest of all seven channels (6.18%) and returns the lowest revenue per session ($2.37). Instagram Ads converts best (7.05%) and earns the most per session ($2.72).
+
+**4. Device performance.** Mobile drives the most sessions (134,995) and the most revenue ($339,551), but converts weakest of the three device types (6.47%). Tablet, despite the lowest session volume, converts best (6.82%), followed by Desktop (6.74%).
+
+**5. Campaign performance.** Winter Sale is the strongest campaign on revenue ($153,001) and conversion rate (7.02%). New Product Launch converts second-best (6.95%) despite generating the least revenue of any campaign, suggesting a smaller but higher-intent audience. Email Campaign and "No Campaign" (organic/brand traffic) convert weakest (6.33% and 6.32%).
+
+**6. Conversion behavior.** The dataset's overall conversion rate is **6.67%**, calculated as total conversions divided by total sessions. This differs from the simple day-level average of 8.5% because higher-traffic days convert at a lower rate — consistent with the -0.640 correlation above. The weighted figure is the more accurate read of true conversion performance.
+
+**7. Time and seasonality.** March is the strongest month ($173,832), roughly 20% above the weakest month, April ($144,666). Friday is the strongest day of the week ($143,052), followed by Sunday ($141,338); Tuesday is the weakest ($127,007).
+
+**8. Correlation findings.** Sessions and revenue are effectively uncorrelated (r = 0.012), while sessions and conversion rate show a moderate negative relationship (r = -0.640). Revenue tracks conversions (r = 0.84) and revenue-per-session (r = 0.67) far more closely than it tracks raw session count — the clearest quantitative evidence that traffic quality outweighs traffic quantity in this dataset.
+
+---
+
+## Power BI Dashboard
+
+The dashboard is a 3-page Power BI report built on top of the cleaned dataset, with an explicit semantic model and DAX measures (not just charts on raw columns). It's styled with a custom navy-and-blue visual theme for a clean, stakeholder-ready look.
+
+### Page 1 — Executive Overview
+
+The stakeholder-level summary: overall revenue, traffic, conversions, and where revenue is coming from, at a glance.
+
+![Executive Overview](visuals/Executive_overview.png)
+
+- KPI row: **Total Revenue ($941,205)**, **Total Sessions (363,116)**, **Conversion Rate (6.67%)**, **Total Conversions (24,203)**, **Revenue per Session ($2.59)**
+- Revenue trend over time (daily line chart, Jan–Jun 2024)
+- Revenue contribution by traffic source
+- Revenue by device type
+- Revenue efficiency (revenue per session) by traffic source
+- A date-range slicer and a written key-insights callout explaining the conversion-rate methodology and headline findings
+
+### Page 2 — Marketing Performance
+
+Evaluates marketing acquisition performance: which channels and campaigns generate traffic, and which convert it efficiently.
+
+![Marketing Performance](visuals/Marketing_Performance.png)
+
+- Sessions by traffic source
+- Conversion rate by traffic source
+- Revenue contribution by traffic source
+- Revenue by campaign
+- Conversion rate by campaign
+- Revenue efficiency by traffic source
+- Slicers for Traffic Source, Campaign, and Date
+
+This page is built to answer: which channels generate traffic, which convert efficiently, which campaigns contribute the most revenue, and where traffic volume and conversion efficiency diverge (Google Ads being the clearest case).
+
+### Page 3 — User Behavior & Time Trends
+
+Analyzes when and on which devices users are most likely to convert, and tests whether traffic volume actually predicts revenue.
+
+![User Behavior & Time Trends](visuals/User%20Behaviour%20&%20Time%20Trends.png)
+
+- Conversion rate by device type
+- Revenue by month
+- Revenue by weekday
+- Daily sessions trend
+- A Sessions-vs-Revenue scatter plot (daily grain)
+- Two live correlation cards: **Sessions vs Revenue = 0.012**, **Sessions vs Conversion Rate = -0.640**
+- A written findings panel stating the validated correlations and that correlation does not imply causation
+- A Device Type slicer
+
+---
+
+## Power BI Data Model
+
+The dashboard was rebuilt from an earlier flat, single-table report into a proper two-table model:
+
+- **FactWebsiteTraffic** — the cleaned dataset, imported via Power Query, with the numeric columns that feed measures (Sessions, Conversions, Revenue, and the two derived rate columns) hidden so the model steers users toward the explicit measures rather than raw-column aggregation
+- **DimDate** — a dedicated calendar table (Date, Year, Month, Year-Month, Quarter, Weekday, with proper chronological sort order on the text fields) generated in Power Query and marked as the model's official date table
+- A single, active, one-directional relationship: `DimDate[Date] → FactWebsiteTraffic[Date]`
+- Auto Date/Time disabled in favor of the explicit `DimDate` table
+- Every visible KPI is driven by an explicit DAX measure — none of the dashboard's numbers come from an implicit column aggregation
+
+This is a two-table model (one fact table, one date dimension), not a multi-dimension star schema — there is currently no separate dimension table for traffic source, campaign, device, or country; those remain categorical columns on the fact table.
+
+---
+
+## DAX Measures
+
+| Measure | Purpose |
+|---|---|
+| `Total Revenue`, `Total Sessions`, `Total Conversions` | Core sums |
+| `Conversion Rate` | Total Conversions ÷ Total Sessions — the primary, session-weighted conversion KPI |
+| `Average Conversion Rate (Row-Level)` | Simple average of the row-level conversion rate, kept for transparency alongside the weighted figure |
+| `Revenue per Session` | Total Revenue ÷ Total Sessions |
+| `Average Revenue per Session` | Simple average of the row-level revenue-per-session figure |
+| `Average Sessions per Day`, `Average Conversions per Day` | Daily averages using the date table |
+| `Previous Period Revenue/Sessions/Conversions` + `... Growth %` | Month-over-month comparisons |
+| `Sessions vs Revenue Correlation`, `Sessions vs Conversion Rate Correlation` | Live Pearson correlation, recalculated for the current filter context |
+
+The primary conversion-rate measure is deliberately weighted rather than averaged, to avoid overweighting low-volume, high-rate days:
+
+```dax
+Conversion Rate = DIVIDE([Total Conversions], [Total Sessions])
+```
+
+The two correlation measures are computed directly in DAX rather than hard-coded, so they recalculate under any slicer selection while still reproducing the validated 0.012 and -0.640 values on the full, unfiltered dataset:
+
+```dax
+Sessions vs Revenue Correlation =
+VAR _n = COUNTROWS(FactWebsiteTraffic)
+VAR _sumX = SUM(FactWebsiteTraffic[Sessions])
+VAR _sumY = SUM(FactWebsiteTraffic[Revenue])
+VAR _sumXY = SUMX(FactWebsiteTraffic, FactWebsiteTraffic[Sessions] * FactWebsiteTraffic[Revenue])
+VAR _sumX2 = SUMX(FactWebsiteTraffic, FactWebsiteTraffic[Sessions] ^ 2)
+VAR _sumY2 = SUMX(FactWebsiteTraffic, FactWebsiteTraffic[Revenue] ^ 2)
+VAR _numerator = _n * _sumXY - _sumX * _sumY
+VAR _denominator = SQRT((_n * _sumX2 - _sumX ^ 2) * (_n * _sumY2 - _sumY ^ 2))
+RETURN DIVIDE(_numerator, _denominator)
+```
+
+---
+
+## Interactivity
+
+The dashboard is built for stakeholder exploration, not as a static report:
+
+- **Date range slicer** (Executive Overview, Marketing Performance)
+- **Traffic Source slicer** (Marketing Performance)
+- **Campaign slicer** (Marketing Performance)
+- **Device Type slicer** (User Behavior & Time Trends)
+- Default cross-filtering is active on every page, so selecting a value in any slicer or visual filters the rest of that page's visuals in real time
+
+---
+
+## Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Data analysis | Python, pandas, NumPy |
+| Visualization (EDA) | Matplotlib, Seaborn |
+| Notebook environment | Jupyter |
+| Dashboard | Power BI Desktop |
+| Data modeling & measures | Power Query, DAX |
+| Version control | Git, GitHub |
+
+---
+
+## Repository Structure
 
 ```
 website-traffic-analysis/
-│
 ├── data/
-│   ├── raw/                         # Original dataset
-│   └── cleaned_website_traffic.csv  # Cleaned, analysis-ready data
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb       # Null checks, type validation, derived fields
-│   ├── 02_eda.ipynb                 # Distributions, group stats, outlier review
-│   ├── 03_correlation_analysis.ipynb# Pearson matrix, heatmap
-│   └── 04_segmentation.ipynb        # Source, device, page, temporal breakdowns
-│
-├── dashboard/
-│   └── traffic_revenue_dashboard.pbix  # Power BI file
-│
+│   ├── cleaned_website_traffic.csv       # Cleaned, analysis-ready dataset
+│   └── website_traffic_Raw_dataset.csv   # Original raw export
+├── notebook/
+│   ├── website_traffic_analysis.ipynb.ipynb   # Cleaning, EDA, and correlation analysis
+│   └── Website Traffic Analysis Jupyter notebook.pdf   # Exported notebook for quick viewing
 ├── visuals/
-│   └── *.png                        # Exported charts for README and portfolio
-│
+│   ├── Executive_overview.png
+│   ├── Marketing_Performance.png
+│   ├── User Behaviour & Time Trends.png
+│   └── Website Traffic Revenue Analysis.pbip   # Power BI project file
 └── README.md
----
-
-## 🔖 Analytical Limitations
-
-- Dataset covers H1 2024 only — seasonality beyond June is unconfirmed
-- Campaign cost data is absent, making true ROI/ROAS calculation impossible
-- Attribution is last-touch by default — multi-touch modelling would refine channel credit
-- Country-level segmentation not explored in depth — geographic CVR differences may exist
+```
 
 ---
 
-*Patience Anono · Data Analytics Portfolio · [github.com/PatienceAnono/website-traffic-analysis](https://github.com/PatienceAnono/website-traffic-analysis)*
+## Limitations
 
+- Correlation does not imply causation — the relationships above describe association in this dataset, not proven cause and effect.
+- The analysis reflects the available dataset and observation period (January–June 2024); patterns beyond this window are unconfirmed.
+- Historical patterns should not automatically be interpreted as predictive of future performance.
+- Conversion rate and revenue should be interpreted alongside traffic volume rather than independently — a channel's conversion rate in isolation doesn't indicate its revenue contribution, and vice versa.
+- Campaign cost/spend data is not included in the dataset, so return on ad spend (ROAS) cannot be calculated — only revenue and conversion efficiency.
+- Attribution is single-touch (one traffic source per session record); a multi-touch attribution model could shift channel credit.
 
+---
 
+## Project Outcome
 
+This personal project demonstrates my ability to carry an analysis end-to-end: cleaning and validating a raw dataset, using statistical correlation rather than visual impression to test which relationships actually hold, translating those findings into channel- and device-level business insights, and building an interactive Power BI dashboard on a proper data model with explicit, weighted DAX measures rather than default aggregations.
 
+It also reflects a deliberate methodological correction I made partway through the project: the original single-table dashboard computed conversion rate as a simple average of daily rates (8.5%). Rebuilding the model with an explicit, session-weighted measure revealed the true rate is 6.67% — a real, documented example of catching and correcting a metric definition rather than accepting the first number a tool produces.
+
+---
+
+*Patience Anono · [github.com/PatienceAnono/website-traffic-analysis](https://github.com/PatienceAnono/website-traffic-analysis)*
