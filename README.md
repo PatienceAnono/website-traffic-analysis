@@ -277,8 +277,6 @@ RETURN DIVIDE(_numerator, _denominator)
 
 ## Interactivity
 
-The dashboard is built for stakeholder exploration, not as a static report:
-
 - **Date range slicer** (Executive Overview, Marketing Performance)
 - **Traffic Source slicer** (Marketing Performance)
 - **Campaign slicer** (Marketing Performance)
