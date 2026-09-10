@@ -8,9 +8,9 @@
 
 A personal data analytics project analyzing website traffic, marketing performance, user behavior, conversions, and revenue for a six-month e-commerce dataset (January–June 2024). The project moves from raw data through cleaning, exploratory and statistical analysis in Python, and into an interactive Power BI dashboard with a modeled semantic layer and DAX measures.
 
-I built this project to practice and demonstrate the full analytics workflow I use as a data analyst: turning a raw dataset into a statistically grounded, stakeholder-ready decision-support tool — not just a set of charts.
+I built this project to practice and demonstrate the full analytics workflow I use as a data analyst: turning a raw dataset into a statistically grounded, stakeholder-ready decision-support tool  not just a set of charts.
 
-**Central finding:** traffic volume and revenue are essentially uncorrelated (r = 0.012) in this dataset. Conversion quality, not session count, is what actually drives revenue — and session volume is *negatively* correlated with conversion rate (r = -0.640), meaning the channels bringing in the most traffic tend to convert it least efficiently.
+**Central finding:** traffic volume and revenue are essentially uncorrelated (r = 0.012) in this dataset. Conversion quality, not session count, is what actually drives revenue and session volume is *negatively* correlated with conversion rate (r = -0.640), meaning the channels bringing in the most traffic tend to convert it least efficiently.
 
 ---
 
@@ -140,7 +140,7 @@ Performing this breakdown first is what surfaced the project's central tension: 
 
 ## Statistical Analysis: Correlation
 
-Pearson correlation was used to test which numeric relationships in the dataset actually hold up, rather than relying on visual impressions from bar charts alone. Correlation was used to identify relationships in the observed data — not to establish causality.
+Pearson correlation was used to test which numeric relationships in the dataset actually hold up, rather than relying on visual impressions from bar charts alone. Correlation was used to identify relationships in the observed data  not to establish causality.
 
 | Relationship | r | Interpretation |
 |---|---:|---|
